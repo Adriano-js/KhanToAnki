@@ -1,0 +1,586 @@
+https://pt.khanacademy.org/math/pt-4-ano/numeros-soma-e-subtracao-4ano2 | Números naturais	
+ https://pt.khanacademy.org/math/pt-4-ano/numeros-soma-e-subtracao-4ano#numeros-naturais3 | Estratégias para a soma de números de dois e três algarismos	
+ https://pt.khanacademy.org/math/pt-4-ano/numeros-soma-e-subtracao-4ano#pt-estratgias-para-a-soma-de-nmeros-de-dois-e-trs-algarismos4 | Adição com reagrupamento até 1000	
+ https://pt.khanacademy.org/math/pt-4-ano/numeros-soma-e-subtracao-4ano#adicao-com-reagrupamento-ate-10005 | Subtração até 1000 com reagrupamento	
+ https://pt.khanacademy.org/math/pt-4-ano/numeros-soma-e-subtracao-4ano#subtracao-ate-1000-com-reagrupamento6 | Resolvendo problemas	
+ https://pt.khanacademy.org/math/pt-4-ano/numeros-soma-e-subtracao-4ano#resolvendo-problemas-4ano7 | Números https://pt.khanacademy.org/math/pt-4-ano/numeros-multiplicacao-e-divisao-4ano8 | Multiplicação com vários algarismos https://pt.khanacademy.org/math/pt-4-ano/numeros-multiplicacao-e-divisao-4ano#pt-multiplicao-com-vrios-algarismos-valor-posicional-e-modelos-de-rea-29 | Multiplicação por múltiplos de 10, 100 e 1000	
+ https://pt.khanacademy.org/math/pt-4-ano/numeros-multiplicacao-e-divisao-4ano#pt-multiplicao-por-mltiplos-de-10-100-e-100010 | Multiplicação com vários algarismos https://pt.khanacademy.org/math/pt-4-ano/numeros-multiplicacao-e-divisao-4ano#multiplicacao-com-varios-algarismos-algoritmo-padrao11 | A relação entre a multiplicação e a divisão	
+ https://pt.khanacademy.org/math/pt-4-ano/numeros-multiplicacao-e-divisao-4ano#pt-a-relao-entre-a-multiplicao-e-a-diviso12 | Introdução à divisão	
+ https://pt.khanacademy.org/math/pt-4-ano/numeros-multiplicacao-e-divisao-4ano#introducao-divisao13 | Problemas de divisão resolvidos facilmente	
+ https://pt.khanacademy.org/math/pt-4-ano/numeros-multiplicacao-e-divisao-4ano#problemas-de-divisao-resolvidos-facilmente-4ano14 | Divisão https://pt.khanacademy.org/math/pt-4-ano/numeros-multiplicacao-e-divisao-4ano#divisao-valor-posicional-e-area-4ano15 | Problemas de multiplicação e divisão	
+ https://pt.khanacademy.org/math/pt-4-ano/numeros-multiplicacao-e-divisao-4ano#problemas-de-multiplicacao-e-divisao-4ano16 | Números https://pt.khanacademy.org/math/pt-4-ano/numeros-fracoes-4ano17 | Problemas de contagem	
+ https://pt.khanacademy.org/math/pt-4-ano/numeros-fracoes-4ano#problemas-de-contagem18 | Introdução à frações	
+ https://pt.khanacademy.org/math/pt-4-ano/numeros-fracoes-4ano#introducoes-a-fracoes19 | O que significa fração?	
+ https://pt.khanacademy.org/math/pt-4-ano/numeros-fracoes-4ano#o-que-significa-fracao-4ano20 | Frações e números	
+ https://pt.khanacademy.org/math/pt-4-ano/numeros-fracoes-4ano#pt-fraes-e-nmeros21 | Frações na reta	
+ https://pt.khanacademy.org/math/pt-4-ano/numeros-fracoes-4ano#pt-fraes-na-reta22 | Frações equivalentes	
+ https://pt.khanacademy.org/math/pt-4-ano/numeros-fracoes-4ano#fraes-equivalentes-4ano23 | Frações equivalentes na reta numérica	
+ https://pt.khanacademy.org/math/pt-4-ano/numeros-fracoes-4ano#fracoes-equivalentes-na-reta-numerica24 | Problemas que envolvem dinheiro	
+ https://pt.khanacademy.org/math/pt-4-ano/numeros-fracoes-4ano#pt-problemas-que-envolvem-dinheiro25 | Álgebra https://pt.khanacademy.org/math/pt-4-ano/algebra-4ano26 | Padrões em aritmética	
+ https://pt.khanacademy.org/math/pt-4-ano/algebra-4ano#pt-padres-em-aritmtica-4ano27 | Padrões numéricos	
+ https://pt.khanacademy.org/math/pt-4-ano/algebra-4ano#padroes-numericos28 | Investigações matemáticas	
+ https://pt.khanacademy.org/math/pt-4-ano/algebra-4ano#investigacoes-matematicas29 | Problemas de soma e subtração com valores faltantes	
+ https://pt.khanacademy.org/math/pt-4-ano/algebra-4ano#problemas-de-soma-e-subtracao-com-valores-faltantes30 | Mais sobre multiplicação e divisão de um só algarismo	
+ https://pt.khanacademy.org/math/pt-4-ano/algebra-4ano#mais-sobre-multiplicacao-e-divisao-de-um-so-algarismo-4ano31 | As relações inversas entre as operações	
+ https://pt.khanacademy.org/math/pt-4-ano/algebra-4ano#as-relacoes-inversas-entre-as-operacoes32 | Geometria https://pt.khanacademy.org/math/pt-4-ano/geometria-4ano33 | Paralelo e perpendicular	
+ https://pt.khanacademy.org/math/pt-4-ano/geometria-4ano#pt-paralelo-e-perpendicular34 | Área da superfície	
+ https://pt.khanacademy.org/math/pt-4-ano/geometria-4ano#pt-rea-da-superfcie35 | Introdução aos ângulos	
+ https://pt.khanacademy.org/math/pt-4-ano/geometria-4ano#pt-introduo-aos-ngulos36 | Introdução à simetria de reflexão	
+ https://pt.khanacademy.org/math/pt-4-ano/geometria-4ano#pt-introduo-simetria-de-reflexo37 | Localização	
+ https://pt.khanacademy.org/math/pt-4-ano/geometria-4ano#localizacao-4ano38 | Grandezas e medidas https://pt.khanacademy.org/math/pt-4-ano/grandezas-e-medidas-4ano39 | Massa	
+ https://pt.khanacademy.org/math/pt-4-ano/grandezas-e-medidas-4ano#massa-4ano40 | Volume	
+ https://pt.khanacademy.org/math/pt-4-ano/grandezas-e-medidas-4ano#volume-4ano41 | Comprimento	
+ https://pt.khanacademy.org/math/pt-4-ano/grandezas-e-medidas-4ano#comprimento42 | Tempo	
+ https://pt.khanacademy.org/math/pt-4-ano/grandezas-e-medidas-4ano#pt-tempo-243 | Temperatura	
+ https://pt.khanacademy.org/math/pt-4-ano/grandezas-e-medidas-4ano#temperatura44 | Perímetro	
+ https://pt.khanacademy.org/math/pt-4-ano/grandezas-e-medidas-4ano#perimetro-4ano45 | Problemas de perímetro	
+ https://pt.khanacademy.org/math/pt-4-ano/grandezas-e-medidas-4ano#problemas-de-perimetro46 | Contagem de quadrados unitários para calcular área	
+ https://pt.khanacademy.org/math/pt-4-ano/grandezas-e-medidas-4ano#pt-contagem-de-quadrados-unitrios-para-calcular-rea-247 | Intuição da fórmula da área	
+ https://pt.khanacademy.org/math/pt-4-ano/grandezas-e-medidas-4ano#pt-intuio-da-frmula-da-rea48 | Problemas que envolvem dinheiro	
+ https://pt.khanacademy.org/math/pt-4-ano/grandezas-e-medidas-4ano#pt-problemas-que-envolvem-dinheiro-249 | Probabilidade e estatística https://pt.khanacademy.org/math/pt-4-ano/probabilidade-e-estatistica-4ano50 | Introdução à pesquisa	
+ https://pt.khanacademy.org/math/pt-4-ano/probabilidade-e-estatistica-4ano#introducao-a-pesquisa51 | Gráficos de imagem	
+ https://pt.khanacademy.org/math/pt-4-ano/probabilidade-e-estatistica-4ano#pt-grficos-de-imagem52 | Gráfico de barra	
+ https://pt.khanacademy.org/math/pt-4-ano/probabilidade-e-estatistica-4ano#pt-grfico-de-barra53 | Gráfico de linha e tabelas	
+ https://pt.khanacademy.org/math/pt-4-ano/probabilidade-e-estatistica-4ano#pt-grfico-de-linha54 | Análise de eventos aleatórios	
+ https://pt.khanacademy.org/math/pt-4-ano/probabilidade-e-estatistica-4ano#analise-de-eventos-aleatorios55 | Números https://pt.khanacademy.org/math/pt-5-ano/numeros-numeros-decimais-5ano56 | Introdução ao valor posicional	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-numeros-decimais-5ano#introducao-ao-valor-posicional57 | Formas de escrever números inteiros (forma expandida e escrito por extenso)	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-numeros-decimais-5ano#formas-de-escrever-numeros-inteiros-forma-expandida-e-escrito-por-extenso58 | Introdução aos números decimais	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-numeros-decimais-5ano#introducao-aos-numeros-decimais-5ano59 | Números decimais na reta numérica	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-numeros-decimais-5ano#pt-nmeros-decimais-na-reta-numrica60 | Comparação visual de números decimais	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-numeros-decimais-5ano#comparacao-visual-de-numeros-decimais61 | Comparação entre números decimais	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-numeros-decimais-5ano#comparacao-entre-numeros-decimais-5ano62 | Números decimais vs. frações	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-numeros-decimais-5ano#numeros-decimais-vs-fracoes63 | Números decimais maiores que um	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-numeros-decimais-5ano#numeros-decimais-maiores-que-um64 | Conversão de números decimais em frações	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-numeros-decimais-5ano#conversao-de-numeros-decimais-em-fracoes65 | Frações e decimais comuns	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-numeros-decimais-5ano#fracoes-e-decimais-comuns66 | Números https://pt.khanacademy.org/math/pt-5-ano/numeros-fracoes-5ano67 | Introdução a frações	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-fracoes-5ano#introducao-a-fracoes-5ano68 | O que significa fração?	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-fracoes-5ano#o-que-significa-fracao69 | Frações na reta	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-fracoes-5ano#pt-fraes-na-reta-270 | Frações e números	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-fracoes-5ano#pt-fraes-e-nmeros-271 | Frações equivalentes	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-fracoes-5ano#fracoes-equivalentes-5ano72 | Comparação entre frações	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-fracoes-5ano#comparacao-entre-fracoes-5ano73 | Comparação visual de frações com denominadores diferentes https://pt.khanacademy.org/math/pt-5-ano/numeros-fracoes-5ano#comparacao-visual-de-fracoes-com-denominadores-diferentes74 | Comparação de frações com denominadores diferentes	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-fracoes-5ano#comparacao-de-fracoes-com-denominadores-diferentes-5ano75 | Frações equivalentes na reta numérica	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-fracoes-5ano#pt-fraes-equivalentes-na-reta-numrica76 | Denominadores comuns	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-fracoes-5ano#denominadores-comuns-5ano77 | Frações com denominadores 10 e 100	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-fracoes-5ano#fracoes-com-denominadores-10-e-10078 | Números https://pt.khanacademy.org/math/pt-5-ano/numeros-porcentagem-soma-subtracao-5ano79 | Introdução às porcentagens	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-porcentagem-soma-subtracao-5ano#pt-introduo-s-porcentagens80 | Problemas de porcentagem	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-porcentagem-soma-subtracao-5ano#pt-problemas-de-porcentagem81 | Soma de números de vários algarismos	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-porcentagem-soma-subtracao-5ano#soma-de-numeros-de-varios-algarismos82 | Subtração de números de vários algarismos	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-porcentagem-soma-subtracao-5ano#subtracao-de-numeros-de-varios-algarismos83 | Soma de números decimais	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-porcentagem-soma-subtracao-5ano#soma-de-numeros-decimais-5ano84 | Subtração de números decimais	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-porcentagem-soma-subtracao-5ano#subtracao-de-numeros-decimais-5ano85 | Problemas de adição e subtração de números decimais	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-porcentagem-soma-subtracao-5ano#problemas-de-adicao-e-subtracao-de-numeros-decimais86 | Soma e subtração de frações com mesmo denominador	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-porcentagem-soma-subtracao-5ano#soma-e-subtracao-de-fracoes-com-mesmo-denominador-5ano87 | Problemas de soma e subtração de frações	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-porcentagem-soma-subtracao-5ano#problemas-de-soma-e-subtracao-de-fraecos88 | Números https://pt.khanacademy.org/math/pt-5-ano/numeros-multiplicacao-divisao-5ano89 | Multiplicação por múltiplos de 10, 100 e 1.000	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-multiplicacao-divisao-5ano#multiplicacao-por-multiplos-de-10-100-e-100090 | Multiplicação com vários algarismos https://pt.khanacademy.org/math/pt-5-ano/numeros-multiplicacao-divisao-5ano#multiplicacao-com-varios-algarismos-valor-posicional-e-modelos-de-area91 | Multiplicação com vários algarismos https://pt.khanacademy.org/math/pt-5-ano/numeros-multiplicacao-divisao-5ano#multiplicacao-com-varios-algarismos-modelo-de-algoritmo-padrao92 | Comparação com multiplicação	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-multiplicacao-divisao-5ano#comparacao-com-multiplicacao93 | Problemas de divisão resolvidos facilmente	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-multiplicacao-divisao-5ano#problemas-de-divisao-resolvidos-facilmente94 | Divisão https://pt.khanacademy.org/math/pt-5-ano/numeros-multiplicacao-divisao-5ano#divisao-valor-posicional-e-area95 | Divisão com vários algarismos	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-multiplicacao-divisao-5ano#divisao-com-varios-algarismos96 | Restos	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-multiplicacao-divisao-5ano#restos97 | Problemas de multiplicação e divisão	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-multiplicacao-divisao-5ano#problemas-de-multiplicacao-e-divisao-5ano98 | Números https://pt.khanacademy.org/math/pt-5-ano/numeros-multiplicacao-divisao-com-fracoes-5ano99 | Multiplicação de frações e números naturais	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-multiplicacao-divisao-com-fracoes-5ano#pt-multiplicao-de-fraes-e-nmeros-naturais100 | Multiplicação de frações unitárias e números inteiros	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-multiplicacao-divisao-com-fracoes-5ano#multiplicacao-de-fracoes-unitarias-e-numeros-inteiros101 | Multiplicação de números inteiros e frações	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-multiplicacao-divisao-com-fracoes-5ano#multiplicacao-de-numeros-inteiros-e-fracoes102 | Problemas de multiplicação de números inteiros e frações https://pt.khanacademy.org/math/pt-5-ano/numeros-multiplicacao-divisao-com-fracoes-5ano#problemas-de-multiplicacao-de-numeros-inteiros-e-fracoes103 | Problemas de divisão de frações	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-multiplicacao-divisao-com-fracoes-5ano#pt-problemas-de-diviso-de-fraes104 | Contagem com permutações	
+ https://pt.khanacademy.org/math/pt-5-ano/numeros-multiplicacao-divisao-com-fracoes-5ano#pt-contagem-com-permutaes105 | Álgebra https://pt.khanacademy.org/math/pt-5-ano/algebra-5ano106 | Relação de igualdade entre dois membros	
+ https://pt.khanacademy.org/math/pt-5-ano/algebra-5ano#relacao-de-igualdade-entre-dois-membros107 | Mais sobre multiplicação e divisão de um só algarismo	
+ https://pt.khanacademy.org/math/pt-5-ano/algebra-5ano#mais-sobre-multiplicacao-e-divisao-de-um-so-algarismo108 | Introdução às razões	
+ https://pt.khanacademy.org/math/pt-5-ano/algebra-5ano#introducao-as-razoes-5ano109 | Como Identificar relações de proporções	
+ https://pt.khanacademy.org/math/pt-5-ano/algebra-5ano#pt-como-identificar-relaes-de-propores110 | Problemas de partilha	
+ https://pt.khanacademy.org/math/pt-5-ano/algebra-5ano#problemas-de-partilha111 | Geometria https://pt.khanacademy.org/math/pt-5-ano/geometria-5ano112 | Área da superfície	
+ https://pt.khanacademy.org/math/pt-5-ano/geometria-5ano#pt-rea-da-superfcie-2113 | Formas básicas	
+ https://pt.khanacademy.org/math/pt-5-ano/geometria-5ano#pt-formas-bsicas-2-5ano114 | Compondo formas	
+ https://pt.khanacademy.org/math/pt-5-ano/geometria-5ano#pt-compondo-formas115 | Propriedades das formas	
+ https://pt.khanacademy.org/math/pt-5-ano/geometria-5ano#propriedades-das-formas-5ano116 | Introdução aos ângulos	
+ https://pt.khanacademy.org/math/pt-5-ano/geometria-5ano#pt-introduo-aos-ngulos-2117 | Tipos de ângulos	
+ https://pt.khanacademy.org/math/pt-5-ano/geometria-5ano#pt-tipos-de-ngulos118 | Classificação de triângulos	
+ https://pt.khanacademy.org/math/pt-5-ano/geometria-5ano#classificacao-de-triangulos-5ano119 | Classificação de formas geométricas	
+ https://pt.khanacademy.org/math/pt-5-ano/geometria-5ano#classificaoca-de-formas-geometricas120 | Congruência de ângulos e a proporcionalidade entre os lados https://pt.khanacademy.org/math/pt-5-ano/geometria-5ano#congruncia-de-angulos-e-a-proporcionalidade-entre-os-lados121 | Localização	
+ https://pt.khanacademy.org/math/pt-5-ano/geometria-5ano#localizao-5ano122 | Grandezas e Medidas https://pt.khanacademy.org/math/pt-5-ano/grandezas-e-medidas-5ano123 | Estimativa de massa	
+ https://pt.khanacademy.org/math/pt-5-ano/grandezas-e-medidas-5ano#estimativa-de-massa124 | Estimativa de volume	
+ https://pt.khanacademy.org/math/pt-5-ano/grandezas-e-medidas-5ano#estimativa-de-volume125 | Estimativa de comprimento	
+ https://pt.khanacademy.org/math/pt-5-ano/grandezas-e-medidas-5ano#estimativa-de-comprimento-5ano126 | Conversão de unidades de massa	
+ https://pt.khanacademy.org/math/pt-5-ano/grandezas-e-medidas-5ano#conversao-de-unidades-de-massa127 | Conversão de unidades de volume	
+ https://pt.khanacademy.org/math/pt-5-ano/grandezas-e-medidas-5ano#conversao-de-unidades-de-volume128 | Conversão de unidades de comprimento	
+ https://pt.khanacademy.org/math/pt-5-ano/grandezas-e-medidas-5ano#conversao-de-unidades-de-comprimento129 | Conversão de unidades de tempo	
+ https://pt.khanacademy.org/math/pt-5-ano/grandezas-e-medidas-5ano#conversao-de-unidades-de-tempo130 | Intuição da fórmula da área	
+ https://pt.khanacademy.org/math/pt-5-ano/grandezas-e-medidas-5ano#xb5f47e40446387e5:pt-intuicao-da-formula-da-area-2131 | Comparação entre área e perímetro	
+ https://pt.khanacademy.org/math/pt-5-ano/grandezas-e-medidas-5ano#pt-comparao-entre-rea-e-permetro132 | Volume de sólidos geométricos https://pt.khanacademy.org/math/pt-5-ano/grandezas-e-medidas-5ano#volume-de-solidos-geometricos-relacao-com-cubos133 | Probabilidade e estatística https://pt.khanacademy.org/math/pt-5-ano/probabilidade-e-estatistica-5ano134 | Gráficos de imagens, gráficos de barras e histogramas	
+ https://pt.khanacademy.org/math/pt-5-ano/probabilidade-e-estatistica-5ano#pt-grficos-de-imagens-grficos-de-barras-e-histogramas-3135 | Eventos aleatórios	
+ https://pt.khanacademy.org/math/pt-5-ano/probabilidade-e-estatistica-5ano#eventos-aleatorios-5ano136 | Pesquisas	
+ https://pt.khanacademy.org/math/pt-5-ano/probabilidade-e-estatistica-5ano#pesquisas137 | Números https://pt.khanacademy.org/math/6-ano-matematica/numeros-sistema-de-numeracao-decimal-6ano138 | Os números	
+ https://pt.khanacademy.org/math/6-ano-matematica/numeros-sistema-de-numeracao-decimal-6ano#os-numeros139 | Sistema de numeração Romano	
+ https://pt.khanacademy.org/math/6-ano-matematica/numeros-sistema-de-numeracao-decimal-6ano#sistema-de-numeracao-romano140 | Introdução aos números decimais	
+ https://pt.khanacademy.org/math/6-ano-matematica/numeros-sistema-de-numeracao-decimal-6ano#introducao-aos-numeros-decimais141 | Números decimais na reta numérica	
+ https://pt.khanacademy.org/math/6-ano-matematica/numeros-sistema-de-numeracao-decimal-6ano#numeros-decimais-na-reta-numerica142 | Valor posicional	
+ https://pt.khanacademy.org/math/6-ano-matematica/numeros-sistema-de-numeracao-decimal-6ano#valor-posicional143 | Como arredondar números decimais	
+ https://pt.khanacademy.org/math/6-ano-matematica/numeros-sistema-de-numeracao-decimal-6ano#como-arredondar-numeros-decimais144 | Arredondamento	
+ https://pt.khanacademy.org/math/6-ano-matematica/numeros-sistema-de-numeracao-decimal-6ano#arredondamento145 | Comparação entre números decimais	
+ https://pt.khanacademy.org/math/6-ano-matematica/numeros-sistema-de-numeracao-decimal-6ano#comparacao-entre-numeros-decimais146 | Reescrever decimais na forma de frações	
+ https://pt.khanacademy.org/math/6-ano-matematica/numeros-sistema-de-numeracao-decimal-6ano#reescrever-decimais-na-forma-de-fracoes147 | Números https://pt.khanacademy.org/math/6-ano-matematica/numeros-operacoes-com-numeros-naturais-6ano148 | Adição e subtração com números naturais	
+ https://pt.khanacademy.org/math/6-ano-matematica/numeros-operacoes-com-numeros-naturais-6ano#adicao-e-subtracao-com-numeros-naturais149 | Multiplicação com números naturais	
+ https://pt.khanacademy.org/math/6-ano-matematica/numeros-operacoes-com-numeros-naturais-6ano#multiplicacao-com-numeros-naturais150 | Divisão com números naturais	
+ https://pt.khanacademy.org/math/6-ano-matematica/numeros-operacoes-com-numeros-naturais-6ano#divisao-com-numeros-naturais151 | Problemas de multiplicação e divisão	
+ https://pt.khanacademy.org/math/6-ano-matematica/numeros-operacoes-com-numeros-naturais-6ano#problemas-de-multiplicacao-e-divisao152 | Potenciação	
+ https://pt.khanacademy.org/math/6-ano-matematica/numeros-operacoes-com-numeros-naturais-6ano#potenciacao153 | Números https://pt.khanacademy.org/math/6-ano-matematica/numeros-multiplos-e-divisores-6ano154 | Números primos e compostos	
+ https://pt.khanacademy.org/math/6-ano-matematica/numeros-multiplos-e-divisores-6ano#numeros-primos-e-compostos155 | Divisores e múltiplos	
+ https://pt.khanacademy.org/math/6-ano-matematica/numeros-multiplos-e-divisores-6ano#divisores-e-multiplos156 | Critérios de divisibilidade	
+ https://pt.khanacademy.org/math/6-ano-matematica/numeros-multiplos-e-divisores-6ano#criterios-de-divisibilidade157 | Algoritmos e problemas	
+ https://pt.khanacademy.org/math/6-ano-matematica/numeros-multiplos-e-divisores-6ano#algoritimos-e-problemas158 | Escrevendo expressões	
+ https://pt.khanacademy.org/math/6-ano-matematica/numeros-multiplos-e-divisores-6ano#escrevendo-expressoes159 | Números https://pt.khanacademy.org/math/6-ano-matematica/numeros-fracoes160 | Frações equivalentes	
+ https://pt.khanacademy.org/math/6-ano-matematica/numeros-fracoes#fracoes-equivalentes161 | Comparação de frações com denominadores diferentes	
+ https://pt.khanacademy.org/math/6-ano-matematica/numeros-fracoes#comparacao-de-fracoes-com-denominadores-diferentes162 | Soma e subtração de frações com mesmo denominador	
+ https://pt.khanacademy.org/math/6-ano-matematica/numeros-fracoes#soma-e-subtrao-de-fraes-com-mesmo-denominador163 | Problemas de soma e subtração de frações	
+ https://pt.khanacademy.org/math/6-ano-matematica/numeros-fracoes#problemas-de-soma-e-subtracao-de-fracoes164 | Adição e subtração de frações com denominadores diferentes https://pt.khanacademy.org/math/6-ano-matematica/numeros-fracoes#adicao-e-subtracao-de-fracoes-com-denominadores-diferentes165 | Números mistos	
+ https://pt.khanacademy.org/math/6-ano-matematica/numeros-fracoes#numeros-mistos166 | Soma e subtração de números mistos	
+ https://pt.khanacademy.org/math/6-ano-matematica/numeros-fracoes#soma-e-subtracao-de-numeros-mistos167 | Soma e subtração de números mistos com denominadores diferentes https://pt.khanacademy.org/math/6-ano-matematica/numeros-fracoes#soma-e-subtracao-de-numeros-mistos-com-denominadores-diferentes168 | Números https://pt.khanacademy.org/math/6-ano-matematica/numeros-operacoes-com-numeros-racionais169 | Soma de números decimais	
+ https://pt.khanacademy.org/math/6-ano-matematica/numeros-operacoes-com-numeros-racionais#soma-de-numeros-decimais170 | Subtração de números decimais	
+ https://pt.khanacademy.org/math/6-ano-matematica/numeros-operacoes-com-numeros-racionais#subtracao-de-numeros-decimais171 | Problemas de adição de subtração de números decimais	
+ https://pt.khanacademy.org/math/6-ano-matematica/numeros-operacoes-com-numeros-racionais#problemas-de-adicao-e-subtracao-de-decimais172 | Multiplicação de números decimais	
+ https://pt.khanacademy.org/math/6-ano-matematica/numeros-operacoes-com-numeros-racionais#multiplicacao-de-numeros-decimais173 | Divisão de números decimais	
+ https://pt.khanacademy.org/math/6-ano-matematica/numeros-operacoes-com-numeros-racionais#divisao-de-numeros-decimais174 | Ordem das operações	
+ https://pt.khanacademy.org/math/6-ano-matematica/numeros-operacoes-com-numeros-racionais#ordem-das-operacoes-6ano175 | Álgebra https://pt.khanacademy.org/math/6-ano-matematica/algebra-pt176 | Visão geral e história da álgebra	
+ https://pt.khanacademy.org/math/6-ano-matematica/algebra-pt#visao-geral-e-historia-da-algebra177 | Introdução a variáveis	
+ https://pt.khanacademy.org/math/6-ano-matematica/algebra-pt#introducao-a-variaveis178 | Partilha	
+ https://pt.khanacademy.org/math/6-ano-matematica/algebra-pt#partilha179 | Geometria https://pt.khanacademy.org/math/6-ano-matematica/geometria180 | Retas, segmentos de reta e semirretas	
+ https://pt.khanacademy.org/math/6-ano-matematica/geometria#retas-segmentos-de-reta-e-semirretas181 | Plano cartesiano https://pt.khanacademy.org/math/6-ano-matematica/geometria#plano-cartesiano-quadrante-1182 | Quadriláteros no plano cartesiano	
+ https://pt.khanacademy.org/math/6-ano-matematica/geometria#quadrilateros-no-plano-cartesiano183 | Sólidos geométricos (3D)	
+ https://pt.khanacademy.org/math/6-ano-matematica/geometria#solidos-geometricos-3d184 | Triângulos	
+ https://pt.khanacademy.org/math/6-ano-matematica/geometria#triangulos185 | Quadriláteros	
+ https://pt.khanacademy.org/math/6-ano-matematica/geometria#quadrilateros186 | Ampliação e redução de figuras	
+ https://pt.khanacademy.org/math/6-ano-matematica/geometria#ampliacao-e-reducao-de-figuras187 | Construção e representação	
+ https://pt.khanacademy.org/math/6-ano-matematica/geometria#construcao-e-representacao188 | Grandezas e medidas https://pt.khanacademy.org/math/6-ano-matematica/grandezas-e-medidas189 | Conversão de unidades	
+ https://pt.khanacademy.org/math/6-ano-matematica/grandezas-e-medidas#conversao-de-unidades190 | Problemas com unidades de medida	
+ https://pt.khanacademy.org/math/6-ano-matematica/grandezas-e-medidas#problemas-com-unidades-de-medida191 | Como estimar o volume	
+ https://pt.khanacademy.org/math/6-ano-matematica/grandezas-e-medidas#como-estimar-o-volume192 | Como medir ângulos	
+ https://pt.khanacademy.org/math/6-ano-matematica/grandezas-e-medidas#como-medir-angulos193 | Planta baixa e vistas aéreas	
+ https://pt.khanacademy.org/math/6-ano-matematica/grandezas-e-medidas#planta-baixa-e-vistas-areas194 | Probabilidade e estatística https://pt.khanacademy.org/math/6-ano-matematica/probabilidade-e-estatistica195 | Representação de dados	
+ https://pt.khanacademy.org/math/6-ano-matematica/probabilidade-e-estatistica#representacao-de-dados196 | Gráficos de imagens, gráficos de barras e histogramas	
+ https://pt.khanacademy.org/math/6-ano-matematica/probabilidade-e-estatistica#graficos-de-imagens-graficos-de-barras-e-histogramas197 | Interpretação e produção de dados	
+ https://pt.khanacademy.org/math/6-ano-matematica/probabilidade-e-estatistica#interpretacao-e-producao198 | Probabilidade	
+ https://pt.khanacademy.org/math/6-ano-matematica/probabilidade-e-estatistica#probabilidade199 | Números https://pt.khanacademy.org/math/pt-7-ano/numeros-numeros-negativos-7ano200 | Introdução aos números negativos	
+ https://pt.khanacademy.org/math/pt-7-ano/numeros-numeros-negativos-7ano#introducao-aos-numeros-negativos201 | Ordenação de números negativos	
+ https://pt.khanacademy.org/math/pt-7-ano/numeros-numeros-negativos-7ano#ordenacao-de-numeros-negativos202 | Comparação entre números negativos	
+ https://pt.khanacademy.org/math/pt-7-ano/numeros-numeros-negativos-7ano#pt-comparao-entre-nmeros-negativos-2203 | Valor Absoluto	
+ https://pt.khanacademy.org/math/pt-7-ano/numeros-numeros-negativos-7ano#valor-absoluto204 | Ordem e valor absoluto	
+ https://pt.khanacademy.org/math/pt-7-ano/numeros-numeros-negativos-7ano#ordem-e-valor-absoluto205 | Números opostos	
+ https://pt.khanacademy.org/math/pt-7-ano/numeros-numeros-negativos-7ano#numeros-opostos206 | Números https://pt.khanacademy.org/math/pt-7-ano/numeros-operacoes-com-numeros-negativos207 | Introdução à adição de números negativos	
+ https://pt.khanacademy.org/math/pt-7-ano/numeros-operacoes-com-numeros-negativos#introducao-a-adicao-de-numeros-negativos208 | Introdução à subtração de números negativos	
+ https://pt.khanacademy.org/math/pt-7-ano/numeros-operacoes-com-numeros-negativos#introducao-a-subtracao-de-numeros-negativos209 | Soma e subtração de números negativos	
+ https://pt.khanacademy.org/math/pt-7-ano/numeros-operacoes-com-numeros-negativos#soma-e-subtracao-de-numeros-negativos210 | Multiplicação e divisão de números negativos	
+ https://pt.khanacademy.org/math/pt-7-ano/numeros-operacoes-com-numeros-negativos#multiplicacao-e-divisao-de-numeros-negativos211 | Propriedades da potenciação	
+ https://pt.khanacademy.org/math/pt-7-ano/numeros-operacoes-com-numeros-negativos#propriedades-da-potenciacao212 | Radicais	
+ https://pt.khanacademy.org/math/pt-7-ano/numeros-operacoes-com-numeros-negativos#radicais213 | Números https://pt.khanacademy.org/math/pt-7-ano/numeros-mmc-mdc-porcentagem-7ano214 | Divisores e múltiplos	
+ https://pt.khanacademy.org/math/pt-7-ano/numeros-mmc-mdc-porcentagem-7ano#pt-divisores-e-mltiplos-2215 | Máximo divisor comum	
+ https://pt.khanacademy.org/math/pt-7-ano/numeros-mmc-mdc-porcentagem-7ano#maximo-divisor-comum216 | Mínimo múltiplo comum	
+ https://pt.khanacademy.org/math/pt-7-ano/numeros-mmc-mdc-porcentagem-7ano#minimo-multiplo-comum217 | Introdução às porcentagens	
+ https://pt.khanacademy.org/math/pt-7-ano/numeros-mmc-mdc-porcentagem-7ano#introducao-as-porcentagens218 | Conversões entre porcentagens, frações e números decimais https://pt.khanacademy.org/math/pt-7-ano/numeros-mmc-mdc-porcentagem-7ano#conversoes-entre-porcentagens-fracoes-e-numeros-decimais219 | Problemas de porcentagem	
+ https://pt.khanacademy.org/math/pt-7-ano/numeros-mmc-mdc-porcentagem-7ano#problemas-de-porcentagem220 | Números https://pt.khanacademy.org/math/pt-7-ano/numeros-fracoes-7ano221 | Frações na reta numérica	
+ https://pt.khanacademy.org/math/pt-7-ano/numeros-fracoes-7ano#fracoes-na-reta-numerica222 | Comparação entre frações	
+ https://pt.khanacademy.org/math/pt-7-ano/numeros-fracoes-7ano#comparacao-entre-fracoes223 | Denominadores comuns	
+ https://pt.khanacademy.org/math/pt-7-ano/numeros-fracoes-7ano#denominadores-comuns224 | Números decimais e frações negativos na reta numérica https://pt.khanacademy.org/math/pt-7-ano/numeros-fracoes-7ano#numeros-decimais-e-fracoes-negativos-na-reta-numerica225 | Divisão de frações unitárias e números inteiros	
+ https://pt.khanacademy.org/math/pt-7-ano/numeros-fracoes-7ano#divisao-de-fracoes-unitarias-e-numeros-inteiros226 | Frações como divisão	
+ https://pt.khanacademy.org/math/pt-7-ano/numeros-fracoes-7ano#fracoes-como-divisao227 | Resolução de problemas	
+ https://pt.khanacademy.org/math/pt-7-ano/numeros-fracoes-7ano#resolucao-de-problemas228 | Números https://pt.khanacademy.org/math/pt-7-ano/numeros-razoes-7ano229 | Introdução às razões	
+ https://pt.khanacademy.org/math/pt-7-ano/numeros-razoes-7ano#introducacao-as-razoes230 | Razões básicas	
+ https://pt.khanacademy.org/math/pt-7-ano/numeros-razoes-7ano#razoes-basicas231 | Variação direta e inversa	
+ https://pt.khanacademy.org/math/pt-7-ano/numeros-razoes-7ano#variacao-direta-e-inversa232 | Soma e subtração de números inteiros e racionais	
+ https://pt.khanacademy.org/math/pt-7-ano/numeros-razoes-7ano#soma-e-subtracao-de-numeros-inteiros-e-racionais233 | Multiplicação e divisão de números inteiros e racionais	
+ https://pt.khanacademy.org/math/pt-7-ano/numeros-razoes-7ano#multiplicacao-e-divisao-de-numeros-inteiros-e-racionais234 | Problemas de números racionais	
+ https://pt.khanacademy.org/math/pt-7-ano/numeros-razoes-7ano#pt-problemas-de-numeros-racionais235 | Álgebra https://pt.khanacademy.org/math/pt-7-ano/algebra-equacoes-7ano236 | Partes de expressões algébricas	
+ https://pt.khanacademy.org/math/pt-7-ano/algebra-equacoes-7ano#partes-de-expressoes-algebricas237 | Introdução à escrita das expressões algébricas	
+ https://pt.khanacademy.org/math/pt-7-ano/algebra-equacoes-7ano#pt-introduo-escrita-das-expresses-algbricas238 | Conceitos básicos sobre equações algébricas	
+ https://pt.khanacademy.org/math/pt-7-ano/algebra-equacoes-7ano#pt-conceitos-bsicos-sobre-equaes-algbricas-2239 | Substituição e cálculo de expressões	
+ https://pt.khanacademy.org/math/pt-7-ano/algebra-equacoes-7ano#substituicao-e-calculo-de-expressoes240 | Raciocínio para equações de uma etapa	
+ https://pt.khanacademy.org/math/pt-7-ano/algebra-equacoes-7ano#raciocinio-para-equacoes-de-uma-etapa241 | Equações de soma e subtração de uma etapa	
+ https://pt.khanacademy.org/math/pt-7-ano/algebra-equacoes-7ano#equacao-de-soma-e-subtracao-de-uma-etapa242 | Equações de multiplicação e divisão de uma etapa	
+ https://pt.khanacademy.org/math/pt-7-ano/algebra-equacoes-7ano#equacoes-de-multiplicacao-e-divisao-de-uma-etapa243 | Problemas de equações de primeiro grau	
+ https://pt.khanacademy.org/math/pt-7-ano/algebra-equacoes-7ano#problemas-de-equaecos-de-primeiro-grau244 | Sequência	
+ https://pt.khanacademy.org/math/pt-7-ano/algebra-equacoes-7ano#sequncia-recursiva-e-nao-recursiva245 | Álgebra https://pt.khanacademy.org/math/pt-7-ano/algebra-inequacoes-7ano246 | Introdução a inequações com variáveis	
+ https://pt.khanacademy.org/math/pt-7-ano/algebra-inequacoes-7ano#introducao-a-inequacoes-com-variaveis247 | Inequações de uma etapa	
+ https://pt.khanacademy.org/math/pt-7-ano/algebra-inequacoes-7ano#inequacoes-de-uma-etapa248 | Inequações de duas etapas	
+ https://pt.khanacademy.org/math/pt-7-ano/algebra-inequacoes-7ano#inequacoes-de-duas-etapas249 | Inequações em várias etapas	
+ https://pt.khanacademy.org/math/pt-7-ano/algebra-inequacoes-7ano#inequacoes-em-varias-etapas250 | Introdução aos sistemas de equações	
+ https://pt.khanacademy.org/math/pt-7-ano/algebra-inequacoes-7ano#introducao-aos-sistemas-de-equacoes251 | Sistemas de equações equivalentes e o método de eliminação https://pt.khanacademy.org/math/pt-7-ano/algebra-inequacoes-7ano#sistemas-de-equacoes-equivalentes-e-o-metodo-de-eliminacao252 | Resolução de sistemas de equações por substituição	
+ https://pt.khanacademy.org/math/pt-7-ano/algebra-inequacoes-7ano#resolucao-de-sistemas-de-equacoes-por-substituicao253 | Problemas envolvendo sistemas de equações	
+ https://pt.khanacademy.org/math/pt-7-ano/algebra-inequacoes-7ano#problemas-envolvendo-sistemas-de-equacoes254 | Geometria https://pt.khanacademy.org/math/pt-7-ano/geometria-simetria-e-transformacoes-7ano255 | Simetria	
+ https://pt.khanacademy.org/math/pt-7-ano/geometria-simetria-e-transformacoes-7ano#simetria256 | Introdução às transformações	
+ https://pt.khanacademy.org/math/pt-7-ano/geometria-simetria-e-transformacoes-7ano#introducao-as-transformacoes257 | Transformações de polígonos	
+ https://pt.khanacademy.org/math/pt-7-ano/geometria-simetria-e-transformacoes-7ano#transformacoes-de-poligonos258 | Translações	
+ https://pt.khanacademy.org/math/pt-7-ano/geometria-simetria-e-transformacoes-7ano#translacoes259 | Rotações	
+ https://pt.khanacademy.org/math/pt-7-ano/geometria-simetria-e-transformacoes-7ano#rotacoes260 | Reflexões	
+ https://pt.khanacademy.org/math/pt-7-ano/geometria-simetria-e-transformacoes-7ano#reflexoes261 | Geometria https://pt.khanacademy.org/math/pt-7-ano/geometria-angulos-e-polgonos-7ano262 | Ângulos da interseção entre retas	
+ https://pt.khanacademy.org/math/pt-7-ano/geometria-angulos-e-polgonos-7ano#angulos-da-intersecao-entre-retas263 | Triângulos	
+ https://pt.khanacademy.org/math/pt-7-ano/geometria-angulos-e-polgonos-7ano#pt-tringulos-2264 | Construção de triângulos	
+ https://pt.khanacademy.org/math/pt-7-ano/geometria-angulos-e-polgonos-7ano#construcao-de-triangulos265 | Ângulos de um triângulo	
+ https://pt.khanacademy.org/math/pt-7-ano/geometria-angulos-e-polgonos-7ano#angulos-de-um-triangulo266 | Teorema da desigualdade triangular	
+ https://pt.khanacademy.org/math/pt-7-ano/geometria-angulos-e-polgonos-7ano#teorema-da-desigualdade-triangular267 | Rigidez do triângulo	
+ https://pt.khanacademy.org/math/pt-7-ano/geometria-angulos-e-polgonos-7ano#regidez-do-triangulo268 | Ângulos com polígonos	
+ https://pt.khanacademy.org/math/pt-7-ano/geometria-angulos-e-polgonos-7ano#angulos-com-poligonos269 | Construção de polígonos regulares	
+ https://pt.khanacademy.org/math/pt-7-ano/geometria-angulos-e-polgonos-7ano#construcao-de-poligonos-regulares270 | Grandezas e medidas https://pt.khanacademy.org/math/pt-7-ano/grandezas-e-medidas-7ano271 | Conversão de unidades	
+ https://pt.khanacademy.org/math/pt-7-ano/grandezas-e-medidas-7ano#conversao-de-unidades-7ano272 | Contagem de quadrados unitários para calcular área	
+ https://pt.khanacademy.org/math/pt-7-ano/grandezas-e-medidas-7ano#contagem-de-quadrados-unitarios-para-calcular-area273 | Áreas de retângulos	
+ https://pt.khanacademy.org/math/pt-7-ano/grandezas-e-medidas-7ano#areas-de-retangulos274 | Áreas de paralelogramos	
+ https://pt.khanacademy.org/math/pt-7-ano/grandezas-e-medidas-7ano#areas-de-paralelogramos275 | Áreas de triângulos	
+ https://pt.khanacademy.org/math/pt-7-ano/grandezas-e-medidas-7ano#areas-de-triangulos276 | Área de trapézios e figuras compostas	
+ https://pt.khanacademy.org/math/pt-7-ano/grandezas-e-medidas-7ano#area-de-trapezios-e-figuras-compostas277 | Área e circunferência de círculos	
+ https://pt.khanacademy.org/math/pt-7-ano/grandezas-e-medidas-7ano#area-e-circunferencia-de-circulos278 | Introdução ao volume	
+ https://pt.khanacademy.org/math/pt-7-ano/grandezas-e-medidas-7ano#introducao-ao-volume279 | Como calcular o volume	
+ https://pt.khanacademy.org/math/pt-7-ano/grandezas-e-medidas-7ano#como-calcular-o-volume280 | Probabilidade e estatística https://pt.khanacademy.org/math/pt-7-ano/probabilidade-e-estatistica-7ano281 | Probabilidade básica	
+ https://pt.khanacademy.org/math/pt-7-ano/probabilidade-e-estatistica-7ano#pt-probabilidade-bsica-2282 | Probabilidade usando espaços amostrais	
+ https://pt.khanacademy.org/math/pt-7-ano/probabilidade-e-estatistica-7ano#probabilidade-usando-espacos-amostrais283 | Probabilidade experimental	
+ https://pt.khanacademy.org/math/pt-7-ano/probabilidade-e-estatistica-7ano#probabilidade-experimental284 | Aleatoriedade, probabilidade e simulação	
+ https://pt.khanacademy.org/math/pt-7-ano/probabilidade-e-estatistica-7ano#aleatoriedade-probabilidade-e-simulacao285 | Resumo do centro de distribuições (tendência central)	
+ https://pt.khanacademy.org/math/pt-7-ano/probabilidade-e-estatistica-7ano#resumo-do-centro-de-distribuicoes286 | Problemas desafiadores de média e mediana	
+ https://pt.khanacademy.org/math/pt-7-ano/probabilidade-e-estatistica-7ano#problemas-desafiadores-de-media-e-mediana287 | Gráficos de imagens, gráficos de barras e histogramas	
+ https://pt.khanacademy.org/math/pt-7-ano/probabilidade-e-estatistica-7ano#graficos-de-imagem-graficos-de-barras-e-histogramas288 | Planejar e realizar pesquisas	
+ https://pt.khanacademy.org/math/pt-7-ano/probabilidade-e-estatistica-7ano#planejar-e-realizar-pesquisas289 | Números https://pt.khanacademy.org/math/pt-8-ano/numeros-8ano290 | Notação científica	
+ https://pt.khanacademy.org/math/pt-8-ano/numeros-8ano#pt-notao-cientfica291 | Expoentes negativos	
+ https://pt.khanacademy.org/math/pt-8-ano/numeros-8ano#expoentes-negativos292 | Raízes cúbicas	
+ https://pt.khanacademy.org/math/pt-8-ano/numeros-8ano#raizes-cubicas293 | Propriedades da potenciação (expoentes racionais)	
+ https://pt.khanacademy.org/math/pt-8-ano/numeros-8ano#propriedades-da-potenciacao-expoentes-racionais294 | Propriedades da potenciação	
+ https://pt.khanacademy.org/math/pt-8-ano/numeros-8ano#propriedades-da-potenciacao-8ano295 | Introdução a expoentes racionais	
+ https://pt.khanacademy.org/math/pt-8-ano/numeros-8ano#introducao-a-expoentes-racionais296 | Problemas de porcentagem	
+ https://pt.khanacademy.org/math/pt-8-ano/numeros-8ano#problemas-de-porcentagem2297 | Contagem com permutações	
+ https://pt.khanacademy.org/math/pt-8-ano/numeros-8ano#pt-contagem-com-permutaes-2298 | Dízimas periódicas	
+ https://pt.khanacademy.org/math/pt-8-ano/numeros-8ano#pt-dzimas-peridicas299 | Álgebra https://pt.khanacademy.org/math/pt-8-ano/algebra-expressoes-8ano300 | Intuição sobre valores de expressões	
+ https://pt.khanacademy.org/math/pt-8-ano/algebra-expressoes-8ano#intuicao-sobre-valores-de-expressoes301 | Substituição e cálculo de expressões	
+ https://pt.khanacademy.org/math/pt-8-ano/algebra-expressoes-8ano#pt-substituio-e-clculo-de-expresses302 | Combinação de termos semelhantes	
+ https://pt.khanacademy.org/math/pt-8-ano/algebra-expressoes-8ano#combinacao-de-termos-semelhantes303 | Resolução de problemas com expressões	
+ https://pt.khanacademy.org/math/pt-8-ano/algebra-expressoes-8ano#resolucao-de-problemas-com-expressoes304 | Problemas sobre como escrever expressões algébricas	
+ https://pt.khanacademy.org/math/pt-8-ano/algebra-expressoes-8ano#problemas-sobre-como-escrever-expresses-algebricas305 | Propriedade distributiva com variáveis	
+ https://pt.khanacademy.org/math/pt-8-ano/algebra-expressoes-8ano#propriedade-distributiva-com-variaveis306 | Problemas de equações de primeiro grau	
+ https://pt.khanacademy.org/math/pt-8-ano/algebra-expressoes-8ano#problemas-de-equacoes-de-primeiro-grau-8ano307 | Álgebra https://pt.khanacademy.org/math/pt-8-ano/algebra-equacoes-8ano308 | Introdução às equações lineares com duas variáveis	
+ https://pt.khanacademy.org/math/pt-8-ano/algebra-equacoes-8ano#pt-introduo-s-equaes-lineares-com-duas-variveis309 | Introdução ao sistema de equações	
+ https://pt.khanacademy.org/math/pt-8-ano/algebra-equacoes-8ano#introducao-ao-sistema-de-equacoes310 | Sistemas de equações equivalentes e o método de eliminação	
+ https://pt.khanacademy.org/math/pt-8-ano/algebra-equacoes-8ano#sistemas-de-equacoes-equivalentes-e-o-metodo-de-eliminacao-8ano311 | Resolução de sistemas de equações por substituição	
+ https://pt.khanacademy.org/math/pt-8-ano/algebra-equacoes-8ano#resolucao-de-sistemas-de-equacoes-por-substituicao-8ano312 | Número de soluções para sistemas de equações	
+ https://pt.khanacademy.org/math/pt-8-ano/algebra-equacoes-8ano#numero-de-solucoes-para-sistemas-de-equacoes313 | Problemas envolvendo sistemas de equações	
+ https://pt.khanacademy.org/math/pt-8-ano/algebra-equacoes-8ano#problemas-envolvendo-sistemas-de-equacoes-8ano314 | Álgebra https://pt.khanacademy.org/math/pt-8-ano/algebra-sequencia-proporcoes-8ano315 | Resolução de equações do segundo grau obtendo-se a raiz quadrada	
+ https://pt.khanacademy.org/math/pt-8-ano/algebra-sequencia-proporcoes-8ano#resoluo-de-equacoes-do-segundo-grau-obtendo-se-a-raiz-quadrada316 | Sequência numérica	
+ https://pt.khanacademy.org/math/pt-8-ano/algebra-sequencia-proporcoes-8ano#sequencia-numerica317 | Como identificar relações de proporção	
+ https://pt.khanacademy.org/math/pt-8-ano/algebra-sequencia-proporcoes-8ano#pt-como-identificar-relaes-de-proporo318 | Como escrever e calcular proporções	
+ https://pt.khanacademy.org/math/pt-8-ano/algebra-sequencia-proporcoes-8ano#pt-como-escrever-e-calcular-propores319 | Variação direta e inversa	
+ https://pt.khanacademy.org/math/pt-8-ano/algebra-sequencia-proporcoes-8ano#variacao-direta-e-inversa-8ano320 | Geometria https://pt.khanacademy.org/math/pt-8-ano/geometria-angulos-8ano321 | Introdução aos ângulos	
+ https://pt.khanacademy.org/math/pt-8-ano/geometria-angulos-8ano#introducao-aos-angulos322 | Como medir e traçar ângulos	
+ https://pt.khanacademy.org/math/pt-8-ano/geometria-angulos-8ano#como-medir-e-tracar-angulos323 | Tipos de ângulo	
+ https://pt.khanacademy.org/math/pt-8-ano/geometria-angulos-8ano#tipos-de-angulo-8ano324 | Provas e ângulos de quadriláteros	
+ https://pt.khanacademy.org/math/pt-8-ano/geometria-angulos-8ano#provas-e-angulos-de-quadrilteros325 | Ângulos em círculos	
+ https://pt.khanacademy.org/math/pt-8-ano/geometria-angulos-8ano#angulos-em-circulos326 | Construção de bissetrizes de retas e ângulos	
+ https://pt.khanacademy.org/math/pt-8-ano/geometria-angulos-8ano#pt-construo-de-bissetrizes-de-retas-e-ngulos327 | Ângulo da bissetriz	
+ https://pt.khanacademy.org/math/pt-8-ano/geometria-angulos-8ano#angulo-da-bissetriz328 | Mediatrizes	
+ https://pt.khanacademy.org/math/pt-8-ano/geometria-angulos-8ano#mediatrizes329 | Geometria https://pt.khanacademy.org/math/pt-8-ano/geometria-construcoes-e-transformacoes-8ano330 | Construção de figuras inscritas e circunscritas	
+ https://pt.khanacademy.org/math/pt-8-ano/geometria-construcoes-e-transformacoes-8ano#construcao-de-figuras-inscritas-e-circunscritas331 | Construindo polígonos regulares inscritos em círculos	
+ https://pt.khanacademy.org/math/pt-8-ano/geometria-construcoes-e-transformacoes-8ano#construindo-poligonos-regulares-inscritos-em-circulos332 | Construção de hexágono regular	
+ https://pt.khanacademy.org/math/pt-8-ano/geometria-construcoes-e-transformacoes-8ano#construcao-de-hexagono-regular333 | Como desenhar polígonos no plano cartesiano	
+ https://pt.khanacademy.org/math/pt-8-ano/geometria-construcoes-e-transformacoes-8ano#como-desenhar-poligonos-no-plano-cartesiano334 | Introdução às transformações	
+ https://pt.khanacademy.org/math/pt-8-ano/geometria-construcoes-e-transformacoes-8ano#pt-introduo-s-transformaes335 | Translação	
+ https://pt.khanacademy.org/math/pt-8-ano/geometria-construcoes-e-transformacoes-8ano#translacao336 | Rotação	
+ https://pt.khanacademy.org/math/pt-8-ano/geometria-construcoes-e-transformacoes-8ano#rotacao337 | Reflexão	
+ https://pt.khanacademy.org/math/pt-8-ano/geometria-construcoes-e-transformacoes-8ano#reflexao338 | Grandezas e medidas https://pt.khanacademy.org/math/pt-8-ano/grandezas-e-medidas-8ano339 | Área de retângulos	
+ https://pt.khanacademy.org/math/pt-8-ano/grandezas-e-medidas-8ano#pt-rea-de-retngulos-2340 | Área de triângulos	
+ https://pt.khanacademy.org/math/pt-8-ano/grandezas-e-medidas-8ano#pt-rea-de-tringulos341 | Área de trapézios e figuras compostas	
+ https://pt.khanacademy.org/math/pt-8-ano/grandezas-e-medidas-8ano#area-de-trapezios-e-figuras-compostas-8ano342 | Área e circunferência de círculos	
+ https://pt.khanacademy.org/math/pt-8-ano/grandezas-e-medidas-8ano#pt-rea-e-circunferncia-de-crculos-2343 | Volume dos cones, cilindros e esferas	
+ https://pt.khanacademy.org/math/pt-8-ano/grandezas-e-medidas-8ano#pt-volume-dos-cones-cilindros-e-esferas344 | Volume de prismas retangulares	
+ https://pt.khanacademy.org/math/pt-8-ano/grandezas-e-medidas-8ano#pt-volume-de-prismas-retangulares-2345 | Probabilidade e estatística https://pt.khanacademy.org/math/pt-8-ano/probabilidade-e-estatistica-8ano346 | Probabilidade teórica básica	
+ https://pt.khanacademy.org/math/pt-8-ano/probabilidade-e-estatistica-8ano#probabilidade-teorica-basica347 | Eventos compostos e espaço amostral	
+ https://pt.khanacademy.org/math/pt-8-ano/probabilidade-e-estatistica-8ano#pt-eventos-compostos-e-espao-amostral348 | Exibição de distribuições	
+ https://pt.khanacademy.org/math/pt-8-ano/probabilidade-e-estatistica-8ano#exibicao-de-distribuicoes349 | Resumo do centro de distribuição	
+ https://pt.khanacademy.org/math/pt-8-ano/probabilidade-e-estatistica-8ano#pt-resumo-do-centro-de-distribuio350 | Média e mediana	
+ https://pt.khanacademy.org/math/pt-8-ano/probabilidade-e-estatistica-8ano#pt-mdia-e-mediana351 | Gráficos	
+ https://pt.khanacademy.org/math/pt-8-ano/probabilidade-e-estatistica-8ano#graficos352 | Números https://pt.khanacademy.org/math/pt-9-ano/numeros-9ano353 | Números irracionais	
+ https://pt.khanacademy.org/math/pt-9-ano/numeros-9ano#pt-nmeros-irracionais354 | Aproximação de números irracionais	
+ https://pt.khanacademy.org/math/pt-9-ano/numeros-9ano#aproximacao-de-numeros-irracionais355 | Provas de números irracionais	
+ https://pt.khanacademy.org/math/pt-9-ano/numeros-9ano#pt-provas-de-nmeros-irracionais356 | Números irracionais na reta numérica	
+ https://pt.khanacademy.org/math/pt-9-ano/numeros-9ano#numeros-irracionais-na-reta-numerica357 | Introdução a expoentes racionais	
+ https://pt.khanacademy.org/math/pt-9-ano/numeros-9ano#pt-introduo-a-expoentes-racionais358 | Expoentes negativos	
+ https://pt.khanacademy.org/math/pt-9-ano/numeros-9ano#pt-expoentes-negativos359 | Notação científica	
+ https://pt.khanacademy.org/math/pt-9-ano/numeros-9ano#pt-notao-cientfica-2360 | Cálculo com notação científica	
+ https://pt.khanacademy.org/math/pt-9-ano/numeros-9ano#calculo-com-notacao-cientifica361 | Problemas de notação científica	
+ https://pt.khanacademy.org/math/pt-9-ano/numeros-9ano#problemas-de-notcaao-cientifica362 | Problemas de porcentagem	
+ https://pt.khanacademy.org/math/pt-9-ano/numeros-9ano#pt-problemas-de-porcentagem-4363 | Equações à moda antiga com Sal	
+ https://pt.khanacademy.org/math/pt-9-ano/numeros-9ano#pt-equaes-moda-antiga-com-sal364 | Álgebra https://pt.khanacademy.org/math/pt-9-ano/algebra-funcoes-9ano365 | Funções e notação de função	
+ https://pt.khanacademy.org/math/pt-9-ano/algebra-funcoes-9ano#funcoes-e-notacao-de-funcao366 | Entradas e saídas de uma função	
+ https://pt.khanacademy.org/math/pt-9-ano/algebra-funcoes-9ano#pt-entradas-e-sadas-de-uma-funo367 | Modelos lineares	
+ https://pt.khanacademy.org/math/pt-9-ano/algebra-funcoes-9ano#modelos-lineares368 | Comparação de funções lineares	
+ https://pt.khanacademy.org/math/pt-9-ano/algebra-funcoes-9ano#comparacao-de-funcoes-lineares369 | Construção de modelos lineares para relações do mundo real https://pt.khanacademy.org/math/pt-9-ano/algebra-funcoes-9ano#construcao-de-modelos-lineares-para-relacoes-do-mundo-real370 | Álgebra https://pt.khanacademy.org/math/pt-9-ano/algebra-razoes-e-proporcoes-9ano371 | Introdução às razões	
+ https://pt.khanacademy.org/math/pt-9-ano/algebra-razoes-e-proporcoes-9ano#pt-introduo-s-razes-3372 | Aplicação de razões	
+ https://pt.khanacademy.org/math/pt-9-ano/algebra-razoes-e-proporcoes-9ano#aplicacao-de-razoes373 | Como identificar relações de proporção	
+ https://pt.khanacademy.org/math/pt-9-ano/algebra-razoes-e-proporcoes-9ano#pt-como-identificar-relaes-de-proporo-2374 | Como escrever e calcular proporções	
+ https://pt.khanacademy.org/math/pt-9-ano/algebra-razoes-e-proporcoes-9ano#pt-como-escrever-e-calcular-propores-2375 | Problemas de proporção	
+ https://pt.khanacademy.org/math/pt-9-ano/algebra-razoes-e-proporcoes-9ano#pt-problemas-de-proporo376 | Representação gráfica das relações proporcionais	
+ https://pt.khanacademy.org/math/pt-9-ano/algebra-razoes-e-proporcoes-9ano#representacao-grafica-das-relacoes-proporcionais377 | Constante de proporcionalidade	
+ https://pt.khanacademy.org/math/pt-9-ano/algebra-razoes-e-proporcoes-9ano#constante-de-proporcionalidade378 | Álgebra https://pt.khanacademy.org/math/pt-9-ano/algebra-expressoes-algebricas-9ano379 | Introdução à fatoração	
+ https://pt.khanacademy.org/math/pt-9-ano/algebra-expressoes-algebricas-9ano#pt-introduo-fatorao380 | Introdução à fatoração de expressões do segundo grau	
+ https://pt.khanacademy.org/math/pt-9-ano/algebra-expressoes-algebricas-9ano#pt-introduo-fatorao-de-expresses-do-segundo-grau381 | Fatoração de polinômios encontrando fatores comuns	
+ https://pt.khanacademy.org/math/pt-9-ano/algebra-expressoes-algebricas-9ano#fatoracao-de-polinomios-encontrando-fatores-comuns382 | Fatoração de equações do segundo grau por meio de agrupamento	
+ https://pt.khanacademy.org/math/pt-9-ano/algebra-expressoes-algebricas-9ano#pt-fatorao-de-equaes-do-segundo-grau-por-meio-de-agrupamento383 | Fatoração de polinômios com formas quadráticas	
+ https://pt.khanacademy.org/math/pt-9-ano/algebra-expressoes-algebricas-9ano#fatoracao-de-polinomios-com-formas-quadraticas384 | Fatoração de expressões de segundo grau https://pt.khanacademy.org/math/pt-9-ano/algebra-expressoes-algebricas-9ano#fatoracao-de-expressoes-de-segundo-grau-quadrados-perfeitos385 | Fatoração de expressões do segundo grau https://pt.khanacademy.org/math/pt-9-ano/algebra-expressoes-algebricas-9ano#fatoracao-de-expressoes-do-segundo-grau-diferenca-de-dois-quadrados386 | Estratégia para a fatoração de expressões de segundo grau https://pt.khanacademy.org/math/pt-9-ano/algebra-expressoes-algebricas-9ano#estrategia-para-a-fatoracao-de-expressoes-de-segundo-grau387 | Resolução de equações do segundo grau obtendo-se a raiz quadrada https://pt.khanacademy.org/math/pt-9-ano/algebra-expressoes-algebricas-9ano#resolucao-de-equacoes-do-segundo-grau-obtendo-se-a-raiz-quadrada388 | Resolução de equações do segundo grau por fatoração	
+ https://pt.khanacademy.org/math/pt-9-ano/algebra-expressoes-algebricas-9ano#resolucao-de-equacoes-do-segundo-grau-por-fatoracao389 | Método de completar quadrados	
+ https://pt.khanacademy.org/math/pt-9-ano/algebra-expressoes-algebricas-9ano#mtodo-de-completar-quadrados390 | A fórmula de Bhaskara	
+ https://pt.khanacademy.org/math/pt-9-ano/algebra-expressoes-algebricas-9ano#a-formula-de-bhaskara391 | Geometria https://pt.khanacademy.org/math/pt-9-ano/geometria-9ano392 | Retas paralelas cortadas por transversal	
+ https://pt.khanacademy.org/math/pt-9-ano/geometria-9ano#retas-paralelas-cortadas-por-transversal-9ano393 | Ângulos em círculos	
+ https://pt.khanacademy.org/math/pt-9-ano/geometria-9ano#angulos-em-circulos-9ano394 | Ângulos inscritos	
+ https://pt.khanacademy.org/math/pt-9-ano/geometria-9ano#angulos-inscritos395 | Introdução à semelhança de triângulos	
+ https://pt.khanacademy.org/math/pt-9-ano/geometria-9ano#pt-introduo-semelhana-de-tringulos396 | Teorema de Pitágoras	
+ https://pt.khanacademy.org/math/pt-9-ano/geometria-9ano#teorema-de-pitagoras397 | Aplicação do Teorema de Pitágoras	
+ https://pt.khanacademy.org/math/pt-9-ano/geometria-9ano#aplicacao-do-teorema-de-pitagoras398 | Introdução às razões trigonométricas	
+ https://pt.khanacademy.org/math/pt-9-ano/geometria-9ano#introducoes-as-razoes-trigonomtericas399 | Teorema de Pitágoras e distância entre pontos	
+ https://pt.khanacademy.org/math/pt-9-ano/geometria-9ano#teorema-de-pitagoras-e-distancia-entre-pontos400 | Distância e pontos centrais	
+ https://pt.khanacademy.org/math/pt-9-ano/geometria-9ano#distancia-e-pontos-centrais401 | Sólidos geométricos (formas 3D)	
+ https://pt.khanacademy.org/math/pt-9-ano/geometria-9ano#solidos-geometricos-formas-3d402 | Construção de polígono regular	
+ https://pt.khanacademy.org/math/pt-9-ano/geometria-9ano#construcao-de-poligono-regular403 | Grandezas e medidas https://pt.khanacademy.org/math/pt-9-ano/grandezas-e-medidas-9ano404 | Medidas muito grandes ou muito pequenas	
+ https://pt.khanacademy.org/math/pt-9-ano/grandezas-e-medidas-9ano#medidas-muito-grandes-ou-muito-pequenas405 | Volume de prismas retangulares	
+ https://pt.khanacademy.org/math/pt-9-ano/grandezas-e-medidas-9ano#volume-de-prismas-retangulares406 | Volume com frações	
+ https://pt.khanacademy.org/math/pt-9-ano/grandezas-e-medidas-9ano#volume-com-fracoes407 | Volume e área de cilindro	
+ https://pt.khanacademy.org/math/pt-9-ano/grandezas-e-medidas-9ano#volume-e-area-de-cilindro408 | Probabilidade e estatística https://pt.khanacademy.org/math/pt-9-ano/probabilidade-e-estistica-9ano409 | Probabilidade básica	
+ https://pt.khanacademy.org/math/pt-9-ano/probabilidade-e-estistica-9ano#pt-probabilidade-bsica-3410 | Regra da multiplicação para eventos dependentes	
+ https://pt.khanacademy.org/math/pt-9-ano/probabilidade-e-estistica-9ano#pt-regra-da-multiplicao-para-eventos-dependentes411 | Regra da multiplicação para eventos independentes	
+ https://pt.khanacademy.org/math/pt-9-ano/probabilidade-e-estistica-9ano#pt-regra-da-multiplicao-para-eventos-independentes412 | Gráficos e tabelas	
+ https://pt.khanacademy.org/math/pt-9-ano/probabilidade-e-estistica-9ano#graficos-e-tabelas-9ano413 | Resolução de equações e inequações https://pt.khanacademy.org/math/math1/math1-one-var-eq-ineq414 | Equações lineares com variáveis em ambos os lados	
+ https://pt.khanacademy.org/math/math1/math1-one-var-eq-ineq#math1-variables-on-both-sides415 | Equações lineares com parênteses	
+ https://pt.khanacademy.org/math/math1/math1-one-var-eq-ineq#math1-equations-with-parentheses416 | Análise de diversas soluções para equações lineares	
+ https://pt.khanacademy.org/math/math1/math1-one-var-eq-ineq#math1-number-of-solutions-to-linear-equations417 | Equações lineares com coeficientes desconhecidos	
+ https://pt.khanacademy.org/math/math1/math1-one-var-eq-ineq#math1-linear-equations-with-unknown-coefficients418 | Inequações em várias etapas	
+ https://pt.khanacademy.org/math/math1/math1-one-var-eq-ineq#math1-multi-step-inequalities419 | Inequações compostas	
+ https://pt.khanacademy.org/math/math1/math1-one-var-eq-ineq#math1-compound-inequalities420 | Como trabalhar com unidades https://pt.khanacademy.org/math/math1/math1-units421 | Conversão de taxas	
+ https://pt.khanacademy.org/math/math1/math1-units#math1-rate-conversion422 | Unidades adequadas	
+ https://pt.khanacademy.org/math/math1/math1-units#math1-appropriate-units423 | Problemas com várias unidades	
+ https://pt.khanacademy.org/math/math1/math1-units#math1-word-problems-with-multiple-units424 | Gráficos e equações lineares https://pt.khanacademy.org/math/math1/math1-two-var-eq425 | Introdução às equações lineares com duas variáveis	
+ https://pt.khanacademy.org/math/math1/math1-two-var-eq#math1-solutions-to-two-var-linear-equations426 | Interceptações em x e interceptações em y	
+ https://pt.khanacademy.org/math/math1/math1-two-var-eq#math1-x-and-y-intercepts427 | Coeficiente angular	
+ https://pt.khanacademy.org/math/math1/math1-two-var-eq#math1-slope428 | Retas horizontais e verticais	
+ https://pt.khanacademy.org/math/math1/math1-two-var-eq#hor-and-ver-lines-math1429 | Introdução à equação reduzida da reta	
+ https://pt.khanacademy.org/math/math1/math1-two-var-eq#math1-slope-intercept-form430 | Como fazer o gráfico de equações reduzidas da reta	
+ https://pt.khanacademy.org/math/math1/math1-two-var-eq#math1-graphing-slope-intercept-equations431 | Como escrever equações reduzidas da reta	
+ https://pt.khanacademy.org/math/math1/math1-two-var-eq#math1-writing-slope-intercept-equations432 | Equação fundamental da reta	
+ https://pt.khanacademy.org/math/math1/math1-two-var-eq#math1-point-slope433 | Equação geral da reta	
+ https://pt.khanacademy.org/math/math1/math1-two-var-eq#math1-standard-form434 | Resumo https://pt.khanacademy.org/math/math1/math1-two-var-eq#math1-forms-of-two-var-linear-equations435 | Funções https://pt.khanacademy.org/math/math1/math1-functions436 | Resolução de funções	
+ https://pt.khanacademy.org/math/math1/math1-functions#math1-evaluating-functions437 | Entradas e saídas de uma função	
+ https://pt.khanacademy.org/math/math1/math1-functions#math1-function-inputs-and-outputs438 | Funções e equações	
+ https://pt.khanacademy.org/math/math1/math1-functions#math1-functions-and-equations439 | Como interpretar uma notação da função	
+ https://pt.khanacademy.org/math/math1/math1-functions#math1-interpreting-function-notation440 | Introdução a domínio e contradomínio de uma função	
+ https://pt.khanacademy.org/math/math1/math1-functions#math1-domain-and-range441 | Como determinar o domínio de uma função	
+ https://pt.khanacademy.org/math/math1/math1-functions#math1-determining-the-domain-of-a-function442 | Reconhecendo funções	
+ https://pt.khanacademy.org/math/math1/math1-functions#math1-recognizing-functions443 | Pontos de máximo e de mínimo	
+ https://pt.khanacademy.org/math/math1/math1-functions#math1-maximum-and-minimum-points444 | Intervalos em que uma função é positiva, negativa, crescente ou decrescente https://pt.khanacademy.org/math/math1/math1-functions#math1-positive-negative-increasing-decreasing-intervals445 | Interpretação dos recursos de gráficos	
+ https://pt.khanacademy.org/math/math1/math1-functions#math1-interpreting-features-of-graphs446 | Taxa de variação média	
+ https://pt.khanacademy.org/math/math1/math1-functions#math1-functions-average-rate-of-change447 | Problemas de taxa de variação média	
+ https://pt.khanacademy.org/math/math1/math1-functions#math1-average-rate-of-change-word-problems448 | Problemas com funções e equações lineares https://pt.khanacademy.org/math/math1/math1-linear-word-problems449 | Interpretação de equações e funções lineares	
+ https://pt.khanacademy.org/math/math1/math1-linear-word-problems#math1-interpreting-linear-functions450 | Comparação de funções lineares	
+ https://pt.khanacademy.org/math/math1/math1-linear-word-problems#math1-comparing-linear-functions451 | Construção de modelos de funções lineares para relações do mundo real	
+ https://pt.khanacademy.org/math/math1/math1-linear-word-problems#math1-constructing-linear-models452 | Problemas de modelos de funções lineares	
+ https://pt.khanacademy.org/math/math1/math1-linear-word-problems#math1-linear-models-word-problems453 | Sistemas de equações https://pt.khanacademy.org/math/math1/math1-systems-of-eq454 | Visão geral sobre sistemas de equações	
+ https://pt.khanacademy.org/math/math1/math1-systems-of-eq#systems-overview-math1455 | Introdução aos sistemas de equações	
+ https://pt.khanacademy.org/math/math1/math1-systems-of-eq#math1-introduction-to-systems-of-linear-equations456 | Sistemas de equações equivalentes e o método de eliminação	
+ https://pt.khanacademy.org/math/math1/math1-systems-of-eq#math1-equivalent-systems-of-equations457 | Resolução de sistemas de equações por substituição	
+ https://pt.khanacademy.org/math/math1/math1-systems-of-eq#math1-solving-systems-of-equations-with-substitution458 | Manipulação de expressões com variáveis desconhecidas https://pt.khanacademy.org/math/math1/math1-systems-of-eq#math1-manipulating-expressions-with-unknown-variables459 | Número de soluções para sistemas de equações	
+ https://pt.khanacademy.org/math/math1/math1-systems-of-eq#math1-possible-number-of-solutions-of-systems-of-linear-equations460 | Como resolver qualquer sistema de equações lineares	
+ https://pt.khanacademy.org/math/math1/math1-systems-of-eq#math1-solving-any-system-of-linear-equations461 | Problemas envolvendo sistemas de equações	
+ https://pt.khanacademy.org/math/math1/math1-systems-of-eq#math1-systems-of-linear-equations-word-problems462 | Inequações (sistemas e gráficos) https://pt.khanacademy.org/math/math1/math1-two-var-ineq463 | Verificação de soluções de inequações com duas variáveis	
+ https://pt.khanacademy.org/math/math1/math1-two-var-ineq#math1-checking-solutions-of-inequalities464 | Representação gráfica de inequações com duas variáveis	
+ https://pt.khanacademy.org/math/math1/math1-two-var-ineq#math1-graphing-inequalities465 | Modelagem com inequações lineares	
+ https://pt.khanacademy.org/math/math1/math1-two-var-ineq#math1-modeling-with-linear-inequalities466 | Diagramas de dispersão https://pt.khanacademy.org/math/math1/math1-scatterplots467 | Criar e interpretar diagramas de dispersão	
+ https://pt.khanacademy.org/math/math1/math1-scatterplots#math1-creating-scatterplots468 | Estimativa com linhas de tendência	
+ https://pt.khanacademy.org/math/math1/math1-scatterplots#math1-trend-lines469 | Distribuições de dados https://pt.khanacademy.org/math/math1/math1-data-dist470 | Exibição de distribuições	
+ https://pt.khanacademy.org/math/math1/math1-data-dist#math1-dist-display471 | Resumo do centro de distribuições (tendência central)	
+ https://pt.khanacademy.org/math/math1/math1-data-dist#math1-summarizing-center472 | Diagramas de caixa	
+ https://pt.khanacademy.org/math/math1/math1-data-dist#math1-box-whisker473 | Comparação de distribuições	
+ https://pt.khanacademy.org/math/math1/math1-data-dist#math1-comparing-dist474 | Tabelas de contingência https://pt.khanacademy.org/math/math1/math1-two-way-tables475 | Tabelas de contingência de frequências	
+ https://pt.khanacademy.org/math/math1/math1-two-way-tables#math1-frequency-tables476 | Tabelas de contingência de frequências relativas	
+ https://pt.khanacademy.org/math/math1/math1-two-way-tables#math1-relative-frequency477 | Progressões https://pt.khanacademy.org/math/math1/math1-sequences478 | Introdução às progressões aritméticas	
+ https://pt.khanacademy.org/math/math1/math1-sequences#math1-introduction-to-arithmetic-squences479 | Construção de progressões aritméticas	
+ https://pt.khanacademy.org/math/math1/math1-sequences#math1-constructing-arithmetic-sequences480 | Introdução a progressões geométricas	
+ https://pt.khanacademy.org/math/math1/math1-sequences#math1-introduction-to-geometric-sequences481 | Construção de progressões geométricas	
+ https://pt.khanacademy.org/math/math1/math1-sequences#math1-constructing-geometric-sequences482 | Modelagem com progressão	
+ https://pt.khanacademy.org/math/math1/math1-sequences#math1-modeling-with-sequences483 | Progressões gerais	
+ https://pt.khanacademy.org/math/math1/math1-sequences#math1-general-sequences484 | Expoentes racionais e radicais https://pt.khanacademy.org/math/math1/math1-rational-exponents485 | Revisão das propriedades da potenciação	
+ https://pt.khanacademy.org/math/math1/math1-rational-exponents#math1-exp-prop-review486 | Radicais	
+ https://pt.khanacademy.org/math/math1/math1-rational-exponents#math1-radicals487 | Introdução a expoentes racionais	
+ https://pt.khanacademy.org/math/math1/math1-rational-exponents#math1-introduction-to-rational-exponents-and-radicals488 | Propriedades da potenciação (expoentes racionais)	
+ https://pt.khanacademy.org/math/math1/math1-rational-exponents#math1-rational-exponents-and-the-properties-of-exponents489 | Cálculo avançado de radicais e expoentes	
+ https://pt.khanacademy.org/math/math1/math1-rational-exponents#math1-rational-exp-eval490 | Simplificação de raízes quadradas	
+ https://pt.khanacademy.org/math/math1/math1-rational-exponents#math1-simplify-radical-expressions491 | Simplificação de radicais (raízes com índices maiores)	
+ https://pt.khanacademy.org/math/math1/math1-rational-exponents#math1-simplify-higher-index-roots492 | Crescimento e decaimento exponencial https://pt.khanacademy.org/math/math1/math1-exponential-func493 | Crescimento exponencial versus crescimento linear	
+ https://pt.khanacademy.org/math/math1/math1-exponential-func#exponential-vs-linear-growth-alg1494 | Expressões exponenciais	
+ https://pt.khanacademy.org/math/math1/math1-exponential-func#math1-exponential-expressions495 | Gráficos de crescimento exponencial	
+ https://pt.khanacademy.org/math/math1/math1-exponential-func#math1-graphs-of-exponential-growth496 | Crescimento linear versus crescimento exponencial ao longo do tempo https://pt.khanacademy.org/math/math1/math1-exponential-func#math1-exponential-vs-linear-growth-over-time497 | Decaimento exponencial	
+ https://pt.khanacademy.org/math/math1/math1-exponential-func#math1-exponential-decay498 | Funções exponenciais com base em tabelas e gráficos	
+ https://pt.khanacademy.org/math/math1/math1-exponential-func#math1-exponential-functions-from-tables-and-graphs499 | Transformações geométricas https://pt.khanacademy.org/math/math1/math1-transformations500 | Introdução a transformações rígidas	
+ https://pt.khanacademy.org/math/math1/math1-transformations#math1-transformations-intro501 | Translações	
+ https://pt.khanacademy.org/math/math1/math1-transformations#math1-translations502 | Rotações	
+ https://pt.khanacademy.org/math/math1/math1-transformations#math1-rotations503 | Reflexões	
+ https://pt.khanacademy.org/math/math1/math1-transformations#math1-reflections504 | Visão geral sobre transformações rígidas	
+ https://pt.khanacademy.org/math/math1/math1-transformations#math1-rigid-transformations-overview505 | Dilatações	
+ https://pt.khanacademy.org/math/math1/math1-transformations#math1-dilations506 | Propriedades e definições das transformações	
+ https://pt.khanacademy.org/math/math1/math1-transformations#math1-transformations-definitions507 | Simetria	
+ https://pt.khanacademy.org/math/math1/math1-transformations#math1-symmetry508 | Congruência https://pt.khanacademy.org/math/math1/math1-congruence509 | Transformações e congruência	
+ https://pt.khanacademy.org/math/math1/math1-congruence#math1-trans-and-congruence510 | Congruência de triângulos	
+ https://pt.khanacademy.org/math/math1/math1-congruence#math1-triangle-congruence511 | Teoremas que envolvem propriedades de triângulos	
+ https://pt.khanacademy.org/math/math1/math1-congruence#math1-congruence-theorems512 | Exercícios com triângulos	
+ https://pt.khanacademy.org/math/math1/math1-congruence#math1-working-with-triangles513 | Teoremas que envolvem propriedades de quadriláteros	
+ https://pt.khanacademy.org/math/math1/math1-congruence#math1-quadrilaterals-theorems514 | Demonstração de teoremas gerais que usam a congruência de triângulos https://pt.khanacademy.org/math/math1/math1-congruence#math1-triangle-theorems515 | Construção de bissetrizes de retas e ângulos	
+ https://pt.khanacademy.org/math/math1/math1-congruence#math1-bisectors516 | Geometria analítica https://pt.khanacademy.org/math/math1/math1-analytic-geometry517 | Distância e pontos centrais	
+ https://pt.khanacademy.org/math/math1/math1-analytic-geometry#math1-distance-and-midpoints518 | Divisão de segmentos de reta	
+ https://pt.khanacademy.org/math/math1/math1-analytic-geometry#math1-dividing-segments519 | Solução de problemas com distâncias no plano cartesiano	
+ https://pt.khanacademy.org/math/math1/math1-analytic-geometry#math1-dist-problems520 | Retas paralelas e perpendiculares no plano cartesiano	
+ https://pt.khanacademy.org/math/math1/math1-analytic-geometry#math1-parallel-perpendicular-lines521 | Equações de retas paralelas e perpendiculares	
+ https://pt.khanacademy.org/math/math1/math1-analytic-geometry#math1-parallel-perpendicular-eq522 | Provas no plano cartesiano	
+ https://pt.khanacademy.org/math/math1/math1-analytic-geometry#math1-coordinate-plane-proofs523 | Funções modulares e funções definidas por partes https://pt.khanacademy.org/math/math2/math2-absolute-value524 | Gráficos de funções modulares	
+ https://pt.khanacademy.org/math/math2/math2-absolute-value#math2-graphs-of-abs-value525 | Função definida por partes	
+ https://pt.khanacademy.org/math/math2/math2-absolute-value#math1-piecewise-functions526 | Polinômios https://pt.khanacademy.org/math/math2/math2-polynomials527 | Introdução aos polinômios	
+ https://pt.khanacademy.org/math/math2/math2-polynomials#math2-polynomials-intro528 | Soma e subtração de polinômios	
+ https://pt.khanacademy.org/math/math2/math2-polynomials#math2-add-sub-polynomials529 | Soma e subtração de polinômios https://pt.khanacademy.org/math/math2/math2-polynomials#math2-add-sub-poly-two-var530 | Multiplicação de monômios	
+ https://pt.khanacademy.org/math/math2/math2-polynomials#math2-mul-monomials531 | Multiplicação de monômios por polinômios	
+ https://pt.khanacademy.org/math/math2/math2-polynomials#math2-mul-poly-by-monomials532 | Multiplicação de binômios	
+ https://pt.khanacademy.org/math/math2/math2-polynomials#math2-mul-binomials533 | Multiplicação de binômios por polinômios	
+ https://pt.khanacademy.org/math/math2/math2-polynomials#math2-mul-polynomials534 | Produtos notáveis de binômios	
+ https://pt.khanacademy.org/math/math2/math2-polynomials#math2-binom-special-products535 | Problemas com polinômios	
+ https://pt.khanacademy.org/math/math2/math2-polynomials#math2-polynomials-word-problems536 | Divisão longa de polinômios	
+ https://pt.khanacademy.org/math/math2/math2-polynomials#math2-polynomial-long-div537 | Divisão sintética de polinômios	
+ https://pt.khanacademy.org/math/math2/math2-polynomials#math2-polynomial-synthetic-div538 | Saiba dividir polinômios com restos	
+ https://pt.khanacademy.org/math/math2/math2-polynomials#math2-polynomial-div-practice539 | Fatoração https://pt.khanacademy.org/math/math2/math2-factorization540 | Introdução à fatoração	
+ https://pt.khanacademy.org/math/math2/math2-factorization#math2-factorization-intro541 | Fatoração de monômios	
+ https://pt.khanacademy.org/math/math2/math2-factorization#math2-factoring-monomials542 | Fatoração de polinômios encontrando fatores comuns	
+ https://pt.khanacademy.org/math/math2/math2-factorization#math2-factor-common-factors543 | Cálculo de expressões com variáveis desconhecidas	
+ https://pt.khanacademy.org/math/math2/math2-factorization#math1-evaluating-expressions-with-unknown-variables544 | Introdução à fatoração de expressões do segundo grau	
+ https://pt.khanacademy.org/math/math2/math2-factorization#math2-factor-quadratics-1545 | Fatoração de equações do segundo grau por meio de agrupamento	
+ https://pt.khanacademy.org/math/math2/math2-factorization#math2-factor-quadratics-2546 | Fatoração de polinômios com formas quadráticas	
+ https://pt.khanacademy.org/math/math2/math2-factorization#math2-factor-polynomials547 | Fatoração de expressões do segundo grau https://pt.khanacademy.org/math/math2/math2-factorization#math2-diff-of-squares548 | Fatoração de expressões de segundo grau https://pt.khanacademy.org/math/math2/math2-factorization#math2-perfect-squares549 | Estratégia para a fatoração de expressões de segundo grau https://pt.khanacademy.org/math/math2/math2-factorization#math2-factoring-quadratics-strategy550 | Fatoração de polinômios com formas de produtos notáveis https://pt.khanacademy.org/math/math2/math2-factorization#math2-factor-special-forms551 | Teorema do Resto Polinomial	
+ https://pt.khanacademy.org/math/math2/math2-factorization#math2-remainder-theorem552 | Equações do segundo grau https://pt.khanacademy.org/math/math2/math2-quadratics553 | Introdução às parábolas	
+ https://pt.khanacademy.org/math/math2/math2-quadratics#math2-parabolas-intro554 | Forma fatorada em funções do segundo grau	
+ https://pt.khanacademy.org/math/math2/math2-quadratics#math2-factored-form555 | Resolução de equações do segundo grau obtendo-se a raiz quadrada	
+ https://pt.khanacademy.org/math/math2/math2-quadratics#math2-quadratics-square-root556 | Forma canônica em funções do segundo grau	
+ https://pt.khanacademy.org/math/math2/math2-quadratics#math2-vertex-form557 | Resolução de equações do segundo grau por fatoração	
+ https://pt.khanacademy.org/math/math2/math2-quadratics#math2-quadratic-eq-factoring558 | Método de completar quadrados	
+ https://pt.khanacademy.org/math/math2/math2-quadratics#math2-completing-the-square559 | A fórmula de Bhaskara	
+ https://pt.khanacademy.org/math/math2/math2-quadratics#math2-quadratic-formula560 | Forma padrão de expressões do segundo grau	
+ https://pt.khanacademy.org/math/math2/math2-quadratics#math2-quad-standard-form561 | Características e formas de funções do segundo grau	
+ https://pt.khanacademy.org/math/math2/math2-quadratics#math2-quadratics-features562 | Como transformar parábolas	
+ https://pt.khanacademy.org/math/math2/math2-quadratics#math2-transforming-quadratics563 | Números irracionais https://pt.khanacademy.org/math/math2/math2-irrationals564 | Números irracionais	
+ https://pt.khanacademy.org/math/math2/math2-irrationals#math2-irrational-num565 | Somas e produtos de números racionais/irracionais	
+ https://pt.khanacademy.org/math/math2/math2-irrationals#math2-sums-products-of-rational-irrational566 | Provas de números irracionais	
+ https://pt.khanacademy.org/math/math2/math2-irrationals#math2-irrational-num-proofs567 | Números complexos https://pt.khanacademy.org/math/math2/math2-complex-num568 | O que são números imaginários?	
+ https://pt.khanacademy.org/math/math2/math2-complex-num#math2-imaginary-num569 | O que são números complexos?	
+ https://pt.khanacademy.org/math/math2/math2-complex-num#math2-complex-num-intro570 | O plano complexo	
+ https://pt.khanacademy.org/math/math2/math2-complex-num#math2-complex-plane571 | Soma e subtração de números complexos	
+ https://pt.khanacademy.org/math/math2/math2-complex-num#math2-add-sub-complex-num572 | Multiplicação de números complexos	
+ https://pt.khanacademy.org/math/math2/math2-complex-num#math2-mul-complex-num573 | Crescimento e decaimento exponencial https://pt.khanacademy.org/math/math2/math2-exponential-growth574 | Formas equivalentes de expressões exponenciais	
+ https://pt.khanacademy.org/math/math2/math2-exponential-growth#math2-equivalent-exponential-exp575 | Equações exponenciais https://pt.khanacademy.org/math/math2/math2-exponential-growth#math2-exponential-eq576 | Interpretação da taxa de variação de modelos exponenciais	
+ https://pt.khanacademy.org/math/math2/math2-exponential-growth#math2-interpreting-exponential-rate577 | Construção de modelos exponenciais de acordo com a taxa de variação https://pt.khanacademy.org/math/math2/math2-exponential-growth#math2-construct-exponential-models578 | Interpretação avançada de modelos exponenciais	
+ https://pt.khanacademy.org/math/math2/math2-exponential-growth#math2-exponential-rate-advanced579 | Distinção entre modelos de crescimento linear e exponencial https://pt.khanacademy.org/math/math2/math2-exponential-growth#math2-linear-vs-exponential580 | Modelagem com álgebra https://pt.khanacademy.org/math/math2/math2-modeling581 | Modelagem com equações e inequações com uma só variável	
+ https://pt.khanacademy.org/math/math2/math2-modeling#math2-one-var-modeling582 | Manipulação de fórmulas	
+ https://pt.khanacademy.org/math/math2/math2-modeling#math2-formulas583 | Semelhança https://pt.khanacademy.org/math/math2/math2-similarity584 | Definições de semelhança	
+ https://pt.khanacademy.org/math/math2/math2-similarity#math2-similarity-definitions585 | Introdução à semelhança de triângulos.	
+ https://pt.khanacademy.org/math/math2/math2-similarity#math2-triangle-similarity-intro586 | Resolução de problemas com triângulos semelhantes	
+ https://pt.khanacademy.org/math/math2/math2-similarity#math2-solving-similar-triangles587 | Teorema da bissetriz interna	
+ https://pt.khanacademy.org/math/math2/math2-similarity#math2-angle-bisector-theorem588 | Resolução de problemas com triângulos semelhantes e congruentes https://pt.khanacademy.org/math/math2/math2-similarity#math2-similar-and-congruent-triangles589 | Resolução de problemas com triângulos semelhantes e congruentes https://pt.khanacademy.org/math/math2/math2-similarity#math2-similar-and-congruent-triangles-modeling590 | Triângulos retângulos e trigonometria https://pt.khanacademy.org/math/math2/math2-right-tri-trig591 | Teorema de Pitágoras	
+ https://pt.khanacademy.org/math/math2/math2-right-tri-trig#math2-pyth-theorem592 | Provas do teorema de Pitágoras	
+ https://pt.khanacademy.org/math/math2/math2-right-tri-trig#math2-pythagorean-proofs593 | Triângulos retângulos especiais	
+ https://pt.khanacademy.org/math/math2/math2-right-tri-trig#math2-special-right-triangles594 | Introdução às razões trigonométricas	
+ https://pt.khanacademy.org/math/math2/math2-right-tri-trig#math2-trig-ratios-intro595 | Como calcular a medida de um lado de um triângulo retângulo usando razões trigonométricas https://pt.khanacademy.org/math/math2/math2-right-tri-trig#math2-solve-for-a-side596 | Como calcular a medida de um ângulo de um triângulo retângulo usando razões trigonométricas https://pt.khanacademy.org/math/math2/math2-right-tri-trig#math2-solve-for-an-angle597 | Modelagem com triângulos retângulos	
+ https://pt.khanacademy.org/math/math2/math2-right-tri-trig#math2-modeling-with-right-triangles598 | Relações trigonométricas e semelhança	
+ https://pt.khanacademy.org/math/math2/math2-right-tri-trig#math2-trig-ratios-similarity599 | Seno e cosseno de ângulos complementares	
+ https://pt.khanacademy.org/math/math2/math2-right-tri-trig#math2-complementary-angles600 | Geometria dos sólidos https://pt.khanacademy.org/math/math2/math2-solids601 | Introdução à geometria dos sólidos	
+ https://pt.khanacademy.org/math/math2/math2-solids#math2-solids-intro602 | Densidade	
+ https://pt.khanacademy.org/math/math2/math2-solids#math2-density603 | Objetos 2D vs. 3D	
+ https://pt.khanacademy.org/math/math2/math2-solids#math2-2d-vs-3d604 | Círculos https://pt.khanacademy.org/math/math2/math2-circles605 | Noções básicas de circunferência	
+ https://pt.khanacademy.org/math/math2/math2-circles#math2-circle-basics606 | Medida do arco	
+ https://pt.khanacademy.org/math/math2/math2-circles#math2-arc-measures607 | Comprimento de arco (a partir de graus)	
+ https://pt.khanacademy.org/math/math2/math2-circles#math2-arc-length-deg608 | Introdução a radianos	
+ https://pt.khanacademy.org/math/math2/math2-circles#math2-radians-intro609 | Comprimento de arco (a partir de radianos)	
+ https://pt.khanacademy.org/math/math2/math2-circles#math2-arc-length-rad610 | Setores	
+ https://pt.khanacademy.org/math/math2/math2-circles#math2-sectors611 | Ângulos inscritos	
+ https://pt.khanacademy.org/math/math2/math2-circles#math2-inscribed-angles612 | Resolução de problemas com formas inscritas	
+ https://pt.khanacademy.org/math/math2/math2-circles#math2-inscribed-shapes613 | Propriedades das tangentes	
+ https://pt.khanacademy.org/math/math2/math2-circles#math2-tangents614 | Área do triângulo inscrito	
+ https://pt.khanacademy.org/math/math2/math2-circles#math2-inscribed-triangle-area615 | Construindo polígonos regulares inscritos em círculos	
+ https://pt.khanacademy.org/math/math2/math2-circles#math2-inscribed-polygons616 | Construção de figuras circunscritas e inscritas	
+ https://pt.khanacademy.org/math/math2/math2-circles#math2-circum-in-circles617 | Construindo uma linha tangente a um círculo	
+ https://pt.khanacademy.org/math/math2/math2-circles#math2-constructing-tangents618 | Seções cônicas https://pt.khanacademy.org/math/math2/math2-conics619 | Introdução a seções cônicas	
+ https://pt.khanacademy.org/math/math2/math2-conics#math2-conics-intro620 | Características de um círculo	
+ https://pt.khanacademy.org/math/math2/math2-conics#math2-features-of-circle621 | Equação reduzida de uma circunferência	
+ https://pt.khanacademy.org/math/math2/math2-conics#math2-standard-equation-circle622 | Equação geral de uma circunferência	
+ https://pt.khanacademy.org/math/math2/math2-conics#math2-expanded-equation-circle623 | Foco e diretriz de uma parábola	
+ https://pt.khanacademy.org/math/math2/math2-conics#math2-focus-and-directrix624 | Probabilidade https://pt.khanacademy.org/math/math2/math2-prob625 | Fundamentos da probabilidade	
+ https://pt.khanacademy.org/math/math2/math2-prob#math2-prob-basics626 | Contagem com combinações	
+ https://pt.khanacademy.org/math/math2/math2-prob#math2-counting-combinations627 | Probabilidade com contagem, permutações, combinações	
+ https://pt.khanacademy.org/math/math2/math2-prob#math2-permutations-combinations628 | Regra da multiplicação para eventos independentes	
+ https://pt.khanacademy.org/math/math2/math2-prob#math2-mul-rule-independent629 | Regra da multiplicação para eventos dependentes	
+ https://pt.khanacademy.org/math/math2/math2-prob#math2-mul-rule-dependent630 | Regra da adição em probabilidade	
+ https://pt.khanacademy.org/math/math2/math2-prob#math2-add-rule631 | Probabilidade condicional	
+ https://pt.khanacademy.org/math/math2/math2-prob#math2-conditional-prob632 | Simulação e aleatoriedade	
+ https://pt.khanacademy.org/math/math2/math2-prob#math2-randomness633 | Valor esperado	
+ https://pt.khanacademy.org/math/math2/math2-prob#math2-expected-value634 | Funções https://pt.khanacademy.org/math/math3/math3-manipulating-func635 | Combinação de funções	
+ https://pt.khanacademy.org/math/math3/math3-manipulating-func#math3-combining-func636 | Funções compostas	
+ https://pt.khanacademy.org/math/math3/math3-manipulating-func#math3-composing-func637 | Modelagem de situações por meio da combinação e composição de funções	
+ https://pt.khanacademy.org/math/math3/math3-manipulating-func#math3-combining-composing-models638 | Transladação de funções	
+ https://pt.khanacademy.org/math/math3/math3-manipulating-func#math3-shifting-func639 | Como esticar funções	
+ https://pt.khanacademy.org/math/math3/math3-manipulating-func#math3-stretching-func640 | Introdução às funções inversas	
+ https://pt.khanacademy.org/math/math3/math3-manipulating-func#math3-inverse-func-intro641 | Como encontrar funções inversas	
+ https://pt.khanacademy.org/math/math3/math3-manipulating-func#math3-finding-inverse-func642 | Como verificar se as funções são inversas	
+ https://pt.khanacademy.org/math/math3/math3-manipulating-func#math3-verifying-inverses643 | Como determinar se uma função é inversível	
+ https://pt.khanacademy.org/math/math3/math3-manipulating-func#math3-invertible-func644 | Polinômios https://pt.khanacademy.org/math/math3/math3-polynomials645 | Teorema de Newton	
+ https://pt.khanacademy.org/math/math3/math3-polynomials#math3-binomial-theorem646 | Compreensão do teorema binomial	
+ https://pt.khanacademy.org/math/math3/math3-polynomials#math3-understand-binomial-theorem647 | Métodos avançados de fatoração de polinômios	
+ https://pt.khanacademy.org/math/math3/math3-polynomials#math3-factor-polynomials648 | Teste de identidades polinomiais	
+ https://pt.khanacademy.org/math/math3/math3-polynomials#math3-polynomial-identities649 | Identidades polinomiais com números complexos	
+ https://pt.khanacademy.org/math/math3/math3-polynomials#math3-complex-identities650 | Equações do segundo grau com números complexos	
+ https://pt.khanacademy.org/math/math3/math3-polynomials#math3-complex-quadratic-eq651 | Teorema fundamental da álgebra	
+ https://pt.khanacademy.org/math/math3/math3-polynomials#math3-fundamental-theorem-alg652 | Como encontrar os zeros dos polinômios	
+ https://pt.khanacademy.org/math/math3/math3-polynomials#math3-polynomials-zeros653 | Zeros de polinômios e seus gráficos	
+ https://pt.khanacademy.org/math/math3/math3-polynomials#math3-polynomials-zeros-and-graphs654 | Comportamento final de funções polinomiais	
+ https://pt.khanacademy.org/math/math3/math3-polynomials#math3-polynomial-end-behavior655 | Gráficos de polinômios	
+ https://pt.khanacademy.org/math/math3/math3-polynomials#math3-polynomials-graphs656 | Introdução à simetria de funções	
+ https://pt.khanacademy.org/math/math3/math3-polynomials#math3-func-symmetry657 | Simetria de funções polinomiais	
+ https://pt.khanacademy.org/math/math3/math3-polynomials#math3-polynomial-symmetry658 | Relações entre expressões irracionais https://pt.khanacademy.org/math/math3/math3-radical-eq-func659 | Equações de raiz quadrada	
+ https://pt.khanacademy.org/math/math3/math3-radical-eq-func#math3-square-root-eq660 | Soluções estranhas de equações irracionais	
+ https://pt.khanacademy.org/math/math3/math3-radical-eq-func#math3-extraneous-solutions661 | Equações de raiz cúbica	
+ https://pt.khanacademy.org/math/math3/math3-radical-eq-func#math3-cube-root-eq662 | Domínio de funções irracionais	
+ https://pt.khanacademy.org/math/math3/math3-radical-eq-func#math3-radical-func-domain663 | Gráfico de funções irracionais	
+ https://pt.khanacademy.org/math/math3/math3-radical-eq-func#math3-radical-func-graphs664 | Relações entre expressões racionais https://pt.khanacademy.org/math/math3/math3-rational-exp-eq-func665 | Simplificação de expressões racionais	
+ https://pt.khanacademy.org/math/math3/math3-rational-exp-eq-func#math3-simplify-rational-exp666 | Multiplicação e divisão de expressões racionais	
+ https://pt.khanacademy.org/math/math3/math3-rational-exp-eq-func#math3-mul-div-rational-exp667 | Soma e subtração de expressões racionais	
+ https://pt.khanacademy.org/math/math3/math3-rational-exp-eq-func#math3-add-sub-rational-exp668 | Divisão de frações	
+ https://pt.khanacademy.org/math/math3/math3-rational-exp-eq-func#math3-nested-fractions669 | Equações racionais	
+ https://pt.khanacademy.org/math/math3/math3-rational-exp-eq-func#math3-rational-eq670 | Variação direta e inversa	
+ https://pt.khanacademy.org/math/math3/math3-rational-exp-eq-func#math3-direct-inverse-variation671 | Comportamento final de funções racionais	
+ https://pt.khanacademy.org/math/math3/math3-rational-exp-eq-func#math3-rational-func-end-behavior672 | Descontinuidade de funções racionais	
+ https://pt.khanacademy.org/math/math3/math3-rational-exp-eq-func#math3-rational-func-discontinuities673 | Gráficos de funções racionais	
+ https://pt.khanacademy.org/math/math3/math3-rational-exp-eq-func#math3-rational-func-graphs674 | Representação com funções racionais	
+ https://pt.khanacademy.org/math/math3/math3-rational-exp-eq-func#math3-rational-func-models675 | Equações e funções exponenciais e logaritmos https://pt.khanacademy.org/math/math3/math3-exp-log676 | Introdução aos logaritmos	
+ https://pt.khanacademy.org/math/math3/math3-exp-log#math3-logarithms-intro677 | A constante "e" e o logaritmo natural	
+ https://pt.khanacademy.org/math/math3/math3-exp-log#math3-e-and-natural-log678 | Propriedades dos logaritmos	
+ https://pt.khanacademy.org/math/math3/math3-exp-log#math3-log-properties679 | Fórmula da mudança de base para logaritmos	
+ https://pt.khanacademy.org/math/math3/math3-exp-log#math3-log-change-of-base680 | Equações exponenciais https://pt.khanacademy.org/math/math3/math3-exp-log#math3-exponential-eq681 | Resolução de modelos exponenciais	
+ https://pt.khanacademy.org/math/math3/math3-exp-log#math3-exponential-models682 | Gráficos de funções exponenciais	
+ https://pt.khanacademy.org/math/math3/math3-exp-log#math3-exponential-func-graphs683 | Gráficos de funções logarítmicas	
+ https://pt.khanacademy.org/math/math3/math3-exp-log#math3-log-func-graphs684 | Escala logarítmica (opcional)	
+ https://pt.khanacademy.org/math/math3/math3-exp-log#math3-log-scale685 | Trigonometria https://pt.khanacademy.org/math/math3/math2-trig-func686 | Lei dos senos	
+ https://pt.khanacademy.org/math/math3/math2-trig-func#math3-law-of-sines687 | Lei dos cossenos	
+ https://pt.khanacademy.org/math/math3/math2-trig-func#math3-law-of-cosines688 | Resolução de triângulos gerais	
+ https://pt.khanacademy.org/math/math3/math2-trig-func#math3-solving-general-triangles689 | Introdução a radianos	
+ https://pt.khanacademy.org/math/math3/math2-trig-func#math3-radians-intro690 | Definição de seno, cosseno e tangente pelo círculo trigonométrico	
+ https://pt.khanacademy.org/math/math3/math2-trig-func#math3-unit-circle-definition691 | Gráficos de seno, cosseno e tangente	
+ https://pt.khanacademy.org/math/math3/math2-trig-func#math3-sin-cos-tan-graphs692 | Identidades trigonométricas básicas	
+ https://pt.khanacademy.org/math/math3/math2-trig-func#math3-trig-identities693 | Valores trigonométricos de ângulos especiais	
+ https://pt.khanacademy.org/math/math3/math2-trig-func#math3-trig-special-angles694 | Identidade trigonométrica fundamental	
+ https://pt.khanacademy.org/math/math3/math2-trig-func#math3-pythagorean-identity695 | Introdução à amplitude, linha média e pontos extremos de funções senoidais https://pt.khanacademy.org/math/math3/math2-trig-func#math3-amplitude-midline-intro696 | Como encontrar a amplitude e a linha média a partir da fórmula https://pt.khanacademy.org/math/math3/math2-trig-func#math3-amplitude-midline-from-formula697 | Período de funções senoidais	
+ https://pt.khanacademy.org/math/math3/math2-trig-func#math3-period-of-sinusoids698 | Representação gráfica de funções senoidais	
+ https://pt.khanacademy.org/math/math3/math2-trig-func#math3-graphing-sinusoids699 | Construindo funções senoidais	
+ https://pt.khanacademy.org/math/math3/math2-trig-func#math3-constructing-sinusoids700 | Equações e funções avançadas https://pt.khanacademy.org/math/math3/math3-eq-functions701 | Resolução de equações por meio da construção de gráficos	
+ https://pt.khanacademy.org/math/math3/math3-eq-functions#math3-solving-eq-by-graphing702 | Sistemas de equações do segundo grau	
+ https://pt.khanacademy.org/math/math3/math3-eq-functions#math3-quadratic-systems703 | Interpretação da simetria de modelos algébricos	
+ https://pt.khanacademy.org/math/math3/math3-eq-functions#math3-symmetry-of-models704 | Interpretação do comportamento final de modelos algébricos https://pt.khanacademy.org/math/math3/math3-eq-functions#math3-end-behavior-of-models705 | Interpretação da periodicidade de modelos algébricos	
+ https://pt.khanacademy.org/math/math3/math3-eq-functions#math3-periodicity-of-models706 | Comparação de características de funções	
+ https://pt.khanacademy.org/math/math3/math3-eq-functions#math3-comparing-func-features707 | Séries https://pt.khanacademy.org/math/math3/math3-series708 | Notação sigma básica	
+ https://pt.khanacademy.org/math/math3/math3-series#math3-sigma-notation709 | Séries aritméticas finitas	
+ https://pt.khanacademy.org/math/math3/math3-series#math3-arithmetic-series710 | Séries geométricas finitas	
+ https://pt.khanacademy.org/math/math3/math3-series#math3-geo-series711 | Aplicações de séries geométricas finitas	
+ https://pt.khanacademy.org/math/math3/math3-series#math3-geo-series-app712 | Projeto de estudo https://pt.khanacademy.org/math/math3/math3-study-design713 | Amostras e pesquisas	
+ https://pt.khanacademy.org/math/math3/math3-study-design#math3-surveys714 | Estudos e experimentos observacionais	
+ https://pt.khanacademy.org/math/math3/math3-study-design#math3-observations-experiments715 | Distribuição binomial https://pt.khanacademy.org/math/math3/math3-binomial-prob716 | Distribuição binomial	
+ https://pt.khanacademy.org/math/math3/math3-binomial-prob#math3-binom-prob-tut717 | Distribuições normais https://pt.khanacademy.org/math/math3/math3-normal-dist718 | Distribuições normais	
+ https://pt.khanacademy.org/math/math3/math3-normal-dist#math3-normal-dist-tut	
+	
